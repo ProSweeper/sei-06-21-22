@@ -114,9 +114,9 @@ Click on the links provided below to schedule a 15 minute session for the week:
 
 |Instructor| Sign Up Link|
 |:--|:-:|
+|Shanica Denis - After Hours TA (5:00-8:00 PST)| [link](https://calendly.com/shanica-denis) |
 |Jim Clark| [link](https://calendly.com/jim-clark-ga/one-on-one) |
 |Stephanie Lee| [link](https://calendly.com/stephanie-lee-5/15min?month=2021-12) |
-|Amar Panjwani| [link](https://calendly.com/amarpan/coaching) |
 
 
 ### Link to Recorded Lessons
