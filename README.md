@@ -47,7 +47,7 @@ This will be your shared class repo! Guides, in-class labs and code samples, and
     </tr>
     <tr>
       <td align="center">2</td>
-      <td>CSS: Flexbox, Grid & Responsive Design<br>JS: Callback functions, Classes, jQuery, this Keyword, Array Iterator Methods & Playing Audio</td>
+      <td>CSS: Flexbox, Grid & Responsive Design<br>JS: Callback functions, Classes, this Keyword, Array Iterator Methods & Playing Audio</td>
     </tr>
     <tr>
       <td align="center">3</td>
