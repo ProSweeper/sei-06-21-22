@@ -275,20 +275,18 @@ To avoid this from happening, we can add a single line to our terminal configura
 export GIT_MERGE_AUTOEDIT=no
 ```
 
-**If NOT using ZSH:**
-
-Use VS Code to edit the `~/.bash_profile` file:
-
-```
-code ~/.bash_profile
-```
-
-**For ZSH users:**
+**IF using ZSH users:**
 
 Use VS Code to edit the `~/.zshrc` file:
 
 ```
 code ~/.zshrc
+```
+
+**If NOT using ZSH**, run `ls -a ~` and check for either a `.bash_profile` or a `.bashrc` file, then use VS Code to edit that file:
+
+```
+code ~/.bash_profile    (or ~/.bashrc, depending on which one exists)
 ```
 
 **Regardless of which file you edited, be sure to save it.  You will also need to quit (`command + Q`) terminal and relaunch it for this setting to take effect.**
@@ -497,10 +495,10 @@ If you've already personalized your shell, be it Bash or Zsh, you'll want to ski
 
 #### Bash
 
-Use VS Code to edit the `~/.bash_profile` file:
+Use VS Code to edit the `~/.bash_profile` or `~/.bashrc` file:
 
 ```
-code ~/.bash_profile
+code ~/.bash_profile    (or ~/.bashrc, depending on which one exists)
 ```
 
 Copy and paste the following (it doesn't matter where):
