@@ -103,8 +103,9 @@ This will be your shared class repo! Guides, in-class labs and code samples, and
 |Role        | Name            | Slack       | Email |
 |:--         | :--             | :--         | :-- |
 |Lead Instructor | Jim Clark | @Jim Clark | jim.clark@generalassemb.ly |
+|Instructional Associate | Devlin Booth | @Devlin Booth | adevlin.booth@gmail.com |
+|Instructional Associate | Mario Recinos | @Mario Recinos | mario.recinos@generalassemb.ly |
 |Instructional Associate | Stephanie Lee | @Stephanie Lee -- LA | stephanie.lee@generalassemb.ly |
-|Instructional Associate | Mario Recinos | @Mario Recinos | amar.panjwani@generalassemb.ly |
 
 ### Links to Sign Up for Instructors' Office Hours
 
