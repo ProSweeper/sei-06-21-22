@@ -155,9 +155,8 @@ while (x <= 10) {
   x++;
 }
 ```
-> Note: `x <= 10` is the conditional expression.
-	
-**❓ If `x <= 10` was replaced with just `x`, would it still be considered a valid conditional expression?**
+
+**❓ What part of the above code is the conditional expression?**
 
 ## ❓ Review Questions
 
