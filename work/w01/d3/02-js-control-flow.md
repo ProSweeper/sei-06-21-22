@@ -24,7 +24,7 @@
 ## Lesson Setup
 
 1. We will use  [replit.com](https://replit.com/) to work with the concepts and complete the exercises in this lesson.
-2. Create a new HTML/CSS/JS based Repl.
+2. Create a new Node.js-based Repl.
 3. Name the Repl something like "JS Control Flow"
 
 ## What is Control Flow?

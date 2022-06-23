@@ -31,7 +31,7 @@
 
 ## Setup
 
-Create a new HTML/CSS/JS Repl in [replit.com](https://replit.com/) and name it **JS Arrays**
+Create a new Node.js-based Repl in [replit.com](https://replit.com/) and name it **JS Arrays**
 
 ## 1. The Use Case (What & Why) of Arrays
 

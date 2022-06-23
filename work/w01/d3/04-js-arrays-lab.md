@@ -10,7 +10,7 @@ This lab provides an opportunity to practice defining, accessing and manipulatin
 
 ## Setup & Instructions
 
-Create a new Javascript repl on [replit.com](https://replit.com) for these exercises.
+Create a new Node.js-based repl on [replit.com](https://replit.com) for these exercises.
 
 Title your repl **JS Array Lab**.
 
