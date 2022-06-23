@@ -8,3 +8,4 @@
 | W01D2 | [Intro to the Dev Environment](https://generalassembly.zoom.us/rec/share/5f_Qo87KofO1WfY7HvaDxwZY4JqpQaAGdIN7yaqjVdqrmGdlx54FUoOKyZSfXNOZ._CEQ2aaA1B0dxXsF?startTime=1655846731000) |
 | W01D3 | [Intro to JavaScript and Data Types](https://generalassembly.zoom.us/rec/share/gUO3CZILfPtpmEl6W2oQ5TRpU3ChkovAT6HsT4jkXDeC6Mo2R264BLLr9Q6iHXGf.nRCG9Z-UreFLNFe4?startTime=1655913792000) |
 | W01D3 | [Control Flow in JavaScript](https://generalassembly.zoom.us/rec/share/gUO3CZILfPtpmEl6W2oQ5TRpU3ChkovAT6HsT4jkXDeC6Mo2R264BLLr9Q6iHXGf.nRCG9Z-UreFLNFe4?startTime=1655918707000) |
+| W01D3 | [Intro to JavaScript Arrays](https://generalassembly.zoom.us/rec/share/D3kK_rKXVEd0SFZt0hJCw8gfGgvvx2EA1X0u_3Dz6ShbO2ye8r0EjrIXisa4h3Al.p5VfPtCDnTmHWbNr?startTime=1655931006000) |
