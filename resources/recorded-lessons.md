@@ -12,3 +12,5 @@
 | W01D4 | [JavaScript Functions & Scope (Part 1)](https://generalassembly.zoom.us/rec/share/sa3s8c28lSZkdeZmLVTBqnbkKiu1vrDj6_UhU79oO6ETpfCjT3dQ5aLvnAEwUths.F7rxbSuRaujkes5U?startTime=1656000009000) |
 | W01D4 | [JavaScript Functions & Scope (Part 2)](https://generalassembly.zoom.us/rec/share/sa3s8c28lSZkdeZmLVTBqnbkKiu1vrDj6_UhU79oO6ETpfCjT3dQ5aLvnAEwUths.F7rxbSuRaujkes5U?startTime=1656007331000) |
 | W01D4 | [JavaScript Objects](https://generalassembly.zoom.us/rec/share/nulONlKmdGwJvWoKef0kVMMVM3cNXMO7g9wtR_XrpfqtPjYJXQMM1i1IW84Z3-Ge.nnlReUufLozvJQXf?startTime=1656015759000) |
+| W01D5 | [Intro to the DOM](https://generalassembly.zoom.us/rec/share/PHXGAofnk7kdWEd51McdkDl_ws_oI4SvXcbfGO3_ioEQYW_4qZnwgoAGvd92CaRl.kqoLR13a_nTIFWT-?startTime=1656086407000) |
+| W01D5 | [DOM Events](https://generalassembly.zoom.us/rec/share/PHXGAofnk7kdWEd51McdkDl_ws_oI4SvXcbfGO3_ioEQYW_4qZnwgoAGvd92CaRl.kqoLR13a_nTIFWT-?startTime=1656090919000) |
