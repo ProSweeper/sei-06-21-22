@@ -11,3 +11,4 @@
 | W01D3 | [Intro to JavaScript Arrays](https://generalassembly.zoom.us/rec/share/D3kK_rKXVEd0SFZt0hJCw8gfGgvvx2EA1X0u_3Dz6ShbO2ye8r0EjrIXisa4h3Al.p5VfPtCDnTmHWbNr?startTime=1655931006000) |
 | W01D4 | [JavaScript Functions & Scope (Part 1)](https://generalassembly.zoom.us/rec/share/sa3s8c28lSZkdeZmLVTBqnbkKiu1vrDj6_UhU79oO6ETpfCjT3dQ5aLvnAEwUths.F7rxbSuRaujkes5U?startTime=1656000009000) |
 | W01D4 | [JavaScript Functions & Scope (Part 2)](https://generalassembly.zoom.us/rec/share/sa3s8c28lSZkdeZmLVTBqnbkKiu1vrDj6_UhU79oO6ETpfCjT3dQ5aLvnAEwUths.F7rxbSuRaujkes5U?startTime=1656007331000) |
+| W01D4 | [JavaScript Objects](https://generalassembly.zoom.us/rec/share/nulONlKmdGwJvWoKef0kVMMVM3cNXMO7g9wtR_XrpfqtPjYJXQMM1i1IW84Z3-Ge.nnlReUufLozvJQXf?startTime=1656015759000) |
