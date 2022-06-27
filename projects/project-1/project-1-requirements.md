@@ -9,7 +9,7 @@ Your first SEI project will start out with something fun - **a game!**
 Thanks to the amount of logic there is in a game, there's no better app than a game to teach you how to **think like a programmer**!
 
 Everyone will get a chance to **be creative**, and work through some really **tough programming challenges**.  You got your feet wet
-with Tic-Tac-Toe, and we built a game during class - now it's time to step it up a notch.
+with our game code-alongs during class - now it's time to step it up a notch.
 
 **You will be working individually for this project**. However, your instructors and instructor assistants will be available for support via the support channel in Slack.  Please be sure to provide the details of the issue you are having - screenshots and relevant code are very helpful.
 
@@ -21,7 +21,7 @@ Lastly, in addition to presenting your projects next Friday, you will be require
 
 ## Planning & Presentation Requirements
 
-### Planning - Due Thursday, 3/31/22:
+### Planning - Due Thursday, 6/30/22:
 
 - You will share:
 
@@ -31,7 +31,7 @@ Lastly, in addition to presenting your projects next Friday, you will be require
 
 	☐ Pseudocode for the overall game play.
 
-### Presentation - Friday, 4/8/22:
+### Presentation - Friday, 7/8/22:
 
 You will have a maximum of 10 minutes to present your project following these guidelines:
 
@@ -112,6 +112,7 @@ You will have a maximum of 10 minutes to present your project following these gu
 
 > Note: Games are listed in approximate order of increasing difficulty.
 
+1. **Spaceman** (not this time since we already built it in class together)
 1. **Connect Four**
 1. **Concentration** (memory game / use cards or other theme)
 1. **Simon** (warning: will require asynchronous timing)
