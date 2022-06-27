@@ -14,7 +14,7 @@ Create a new Node.js-based repl on [replit.com](https://replit.com) for these ex
 
 Title your repl **JS Array Lab**.
 
-Copy the exercises below into the repl's **script.js** file and code away!
+Copy the exercises below into the repl's **index.js** file and code away!
 
 This lab is **a DELIVERABLE** - be sure to submit the link to your repl in Google Classroom prior to the due date.
 
@@ -149,10 +149,10 @@ console.log('Exercise 11 Result:\n', odds);
 
 /*
 Exercise 12:
-  - Use the forEach method to iterate through the same nums array and add the number to arrays named fizz, buzz and/or fizzbuzz based upon the following:
+  - Use the forEach method to iterate through the same nums array and add the number to **one** of the following arrays: fizz, buzz or fizzbuzz - based upon the following:
+  	- Add to the fizzbuzz array if the number is evenly divisible by 3 & 5.
   	- Add to the fizz array if the number is evenly divisible by 3.
   	- Add to the buzz array if the number is evenly divisible by 5.
-  	- Add to the fizzbuzz array if the number is evenly divisible by 3 & 5.
 */
 
 // Complete Exercise 12 below...
