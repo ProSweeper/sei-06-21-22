@@ -4,7 +4,7 @@
 |---|:---:|:---:|:---:|
 | **POD 1 - Devlin** |  |  |  |
 | Adam | Blackjack |  |  |
-| Alexander |  |  |  |
+| Alexander | Connect Four |  |  |
 | Tony B. | Blackjack |  |  |
 | Anthony N | Minesweeper |  |  |
 | Beverly | Connect Four |  |  |
@@ -18,9 +18,9 @@
 | Andrew | Battleship |  |  |
 | DK | Connect Four |  |  |
 | Iris | Simon |  |  |
-| Jessica |  |  |  |
+| Jessica | Concentration |  |  |
 | Jesus A. | Connect Four |  |  |
-| Jesus S. |  |  |  |
+| Jesus S. | Slot Machine |  |  |
 | Joba | Solitaire |  |  |
 | Joe | Concentration |  |  |
 | Justin | Connect Four |  |  |
@@ -31,9 +31,9 @@
 | Nolawi | Connect Four |  |  |
 | Bec | Blackjack |  |  |
 | Russel | Minesweeper |  |  |
-| Sashank |  |  |  |
+| Sashank | Connect Four |  |  |
 | Sidra | Connect Four |  |  |
-| Taylor |  |  |  |
+| Taylor | Slot Machine |  |  |
 | Tony O. | Connect Four |  |  |
 | Zach | Solitaire |  |  |
 
