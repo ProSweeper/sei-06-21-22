@@ -3,37 +3,37 @@
 | Student | Game | GitHub | Deployed App |
 |---|:---:|:---:|:---:|
 | **POD 1 - Devlin** |  |  |  |
-| Adam |  |  |  |
+| Adam | Blackjack |  |  |
 | Alexander |  |  |  |
-| Tony B. |  |  |  |
-| Anthony N |  |  |  |
-| Beverly |  |  |  |
-| Brianna |  |  |  |
-| Claude |  |  |  |
-| Ernest |  |  |  |
-| Ian |  |  |  |
-| Jason |  |  |  |
-| Jennifer |  |  |  |
+| Tony B. | Blackjack |  |  |
+| Anthony N | Minesweeper |  |  |
+| Beverly | Connect Four |  |  |
+| Brianna | Mastermind |  |  |
+| Claude | Connect Four |  |  |
+| Ernest | Concentration |  |  |
+| Ian | Connect Four |  |  |
+| Jason | Connect Four |  |  |
+| Jennifer | Solitaire |  |  |
 | **POD 2 - Mario** |  |  |  |
-| Andrew |  |  |  |
-| DK |  |  |  |
-| Iris |  |  |  |
+| Andrew | Battleship |  |  |
+| DK | Connect Four |  |  |
+| Iris | Simon |  |  |
 | Jessica |  |  |  |
-| Jesus A. |  |  |  |
+| Jesus A. | Connect Four |  |  |
 | Jesus S. |  |  |  |
-| Joba |  |  |  |
+| Joba | Solitaire |  |  |
 | Joe |  |  |  |
 | Justin |  |  |  |
+| Lillie | Connect Four |  |  |
 | **POD 3 - Stephanie** |  |  |  |
 | Munaaf |  |  |  |
 | Nicole |  |  |  |
 | Nolawi |  |  |  |
-| Bec |  |  |  |
-| Russel |  |  |  |
+| Bec | Blackjack |  |  |
+| Russel | Minesweeper |  |  |
 | Sashank |  |  |  |
-| Sidra |  |  |  |
+| Sidra | Connect Four |  |  |
 | Taylor |  |  |  |
-| Tony O. |  |  |  |
-| Will |  |  |  |
-| Zach |  |  |  |
+| Tony O. | Connect Four |  |  |
+| Zach | Solitaire |  |  |
 
