@@ -28,7 +28,7 @@
 | **POD 3 - Stephanie** |  |  |  |
 | Munaaf | Connect Four |  |  |
 | Nicole |  |  |  |
-| Nolawi |  |  |  |
+| Nolawi | Connect Four |  |  |
 | Bec | Blackjack |  |  |
 | Russel | Minesweeper |  |  |
 | Sashank |  |  |  |
