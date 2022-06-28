@@ -17,3 +17,4 @@
 | W01D5 | [Intro to the DOM](https://generalassembly.zoom.us/rec/share/ZWp9CbeMfB1zZZw1drvaOOkr6gz1Y2ojXuJCa-oaZYlb7Ib4nIWICN3Mk8Le4zHv.WbjGAr9aoesJXOjQ?startTime=1656099911000) |
 | W01D5 | [DOM Events](https://generalassembly.zoom.us/rec/play/XZg1YDaY_4ZC5JXeRmYjMI_AA2a2QlVeUvDtV8VTZ80Ql2N59ouAF3ygLlfivQMU3bhZFAwK-iQXRsne.zeHw3VaMzSSCrGEc?startTime=1648158551000) |
 | W02D1 | [Build a Browser Game - Part 1](https://generalassembly.zoom.us/rec/share/WvdidQhv8q3gevU8NlPrzmBNUFl1M3EJAEcZKlUqBFbNCUIhgRcXj3LlLMi9ZGOI.iCDJtIqLfcgQy5AW?startTime=1656345610000) |
+| W02D1 | [Build a Browser Game - Part 2](https://generalassembly.zoom.us/rec/share/FttvegaUyIzJzp-FjMu9o3qw9Q9xt1JMPLRc4-5jkXId1sDnDY7Ucql_N8_UqoKj.Fy3sXN3DAyXUqNIc?startTime=1656359111000) |
