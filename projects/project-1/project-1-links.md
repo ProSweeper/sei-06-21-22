@@ -26,7 +26,7 @@
 | Justin | Connect Four |  |  |
 | Lillie | Connect Four |  |  |
 | **POD 3 - Stephanie** |  |  |  |
-| Munaaf |  |  |  |
+| Munaaf | Connect Four |  |  |
 | Nicole |  |  |  |
 | Nolawi |  |  |  |
 | Bec | Blackjack |  |  |
