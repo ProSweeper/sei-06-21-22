@@ -22,7 +22,7 @@
 | Jesus A. | Connect Four |  |  |
 | Jesus S. |  |  |  |
 | Joba | Solitaire |  |  |
-| Joe |  |  |  |
+| Joe | Concentration |  |  |
 | Justin |  |  |  |
 | Lillie | Connect Four |  |  |
 | **POD 3 - Stephanie** |  |  |  |
