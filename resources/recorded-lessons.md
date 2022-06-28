@@ -18,3 +18,4 @@
 | W01D5 | [DOM Events](https://generalassembly.zoom.us/rec/play/XZg1YDaY_4ZC5JXeRmYjMI_AA2a2QlVeUvDtV8VTZ80Ql2N59ouAF3ygLlfivQMU3bhZFAwK-iQXRsne.zeHw3VaMzSSCrGEc?startTime=1648158551000) |
 | W02D1 | [Build a Browser Game - Part 1](https://generalassembly.zoom.us/rec/share/WvdidQhv8q3gevU8NlPrzmBNUFl1M3EJAEcZKlUqBFbNCUIhgRcXj3LlLMi9ZGOI.iCDJtIqLfcgQy5AW?startTime=1656345610000) |
 | W02D1 | [Build a Browser Game - Part 2](https://generalassembly.zoom.us/rec/share/FttvegaUyIzJzp-FjMu9o3qw9Q9xt1JMPLRc4-5jkXId1sDnDY7Ucql_N8_UqoKj.Fy3sXN3DAyXUqNIc?startTime=1656359111000) |
+| W02D2 | [Flexbox & CSS Grid](https://generalassembly.zoom.us/rec/share/nzhTX60TMxe0_Uh_CRNooD8T9OWyX5EjN1KK614oEFRVPJ6zvhsOSGyzzwQtwhvX.fc_j2LcJkzl2wUuu?startTime=1656432011000) |
