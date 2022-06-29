@@ -21,7 +21,7 @@
 | Jessica | Concentration |  |  |
 | Jesus A. | Connect Four |  |  |
 | Jesus S. | Slot Machine |  |  |
-| Joba | Solitaire |  |  |
+| Joba | Connect Four |  |  |
 | Joe | Concentration |  |  |
 | Justin | Connect Four |  |  |
 | Lillie | Connect Four |  |  |
