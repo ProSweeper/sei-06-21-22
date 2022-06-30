@@ -24,3 +24,6 @@
 | W02D3 | [Arrow Functions Walkthrough](https://generalassembly.zoom.us/rec/share/9FnzsrRa3wEhOMDgt38FcCwDAeMEznOIvpOJ4XHQb-fHATVexdoVLVU3vxER0De8.Stj5XVborl33hkWU?startTime=1656532099000) |
 | W02D3 | [JS Classes](https://generalassembly.zoom.us/rec/share/9FnzsrRa3wEhOMDgt38FcCwDAeMEznOIvpOJ4XHQb-fHATVexdoVLVU3vxER0De8.Stj5XVborl33hkWU?startTime=1656533900000) |
 | W02D3 | [Tic-Tac-Toe Code-Along](https://generalassembly.zoom.us/rec/share/9FnzsrRa3wEhOMDgt38FcCwDAeMEznOIvpOJ4XHQb-fHATVexdoVLVU3vxER0De8.Stj5XVborl33hkWU?startTime=1656540908000) |
+| W02D4 | [The What, Why & How of 'this'](https://generalassembly.zoom.us/rec/share/1QNDiNDoW6VDHBV1gAYvOPCRXS4EsrqCG3Ysn8nv-5k4V4SP-HuOA6xKsYO416Xw.RHNLCdRRSrkQt5Aa?startTime=1656604805000) |
+| W02D4 | [Playing Audio in the Browser](https://generalassembly.zoom.us/rec/share/1QNDiNDoW6VDHBV1gAYvOPCRXS4EsrqCG3Ysn8nv-5k4V4SP-HuOA6xKsYO416Xw.RHNLCdRRSrkQt5Aa?startTime=1656608758000) |
+| W02D4 | [Array Iterator Methods - Quiz](https://generalassembly.zoom.us/rec/share/1QNDiNDoW6VDHBV1gAYvOPCRXS4EsrqCG3Ysn8nv-5k4V4SP-HuOA6xKsYO416Xw.RHNLCdRRSrkQt5Aa?startTime=1656612008000) |
