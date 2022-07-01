@@ -12,7 +12,7 @@
 | Claude | Connect Four | [link](https://github.com/claudecabalquinto/connect-4) |  |
 | Ernest | Concentration | [link](https://github.com/loex345/Concentration) |  |
 | Ian | Connect Four | [link](https://github.com/ianchan3/Connect-Four) |  |
-| Jennifer | Solitaire |  |  |
+| Jennifer | Solitaire | [link](https://github.com/jenstiza/Solitaire) |  |
 | **POD 2 - Mario** |  |  |  |
 | Andrew | Battleship | [link](https://github.com/Andrewbui389/BattleShip) |  |
 | DK | Connect Four | [link](https://github.com/Dandd6541/Connect-4) |  |
