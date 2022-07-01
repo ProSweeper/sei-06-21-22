@@ -27,3 +27,4 @@
 | W02D4 | [The What, Why & How of 'this'](https://generalassembly.zoom.us/rec/share/1QNDiNDoW6VDHBV1gAYvOPCRXS4EsrqCG3Ysn8nv-5k4V4SP-HuOA6xKsYO416Xw.RHNLCdRRSrkQt5Aa?startTime=1656604805000) |
 | W02D4 | [Playing Audio in the Browser](https://generalassembly.zoom.us/rec/share/1QNDiNDoW6VDHBV1gAYvOPCRXS4EsrqCG3Ysn8nv-5k4V4SP-HuOA6xKsYO416Xw.RHNLCdRRSrkQt5Aa?startTime=1656608758000) |
 | W02D4 | [Array Iterator Methods - Quiz](https://generalassembly.zoom.us/rec/share/1QNDiNDoW6VDHBV1gAYvOPCRXS4EsrqCG3Ysn8nv-5k4V4SP-HuOA6xKsYO416Xw.RHNLCdRRSrkQt5Aa?startTime=1656612008000) |
+| W02D5 | [Build Another Browser Game - RPS](https://generalassembly.zoom.us/rec/share/LSHa60yl7E6DrHrHay9dWgvqlsFeo28rpZN5rMbJmdm9HAbbyQEcv30k42eHjGXO.tkf0uES8GcVf0EHh?startTime=1656691207000) |
