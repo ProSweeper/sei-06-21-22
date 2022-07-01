@@ -31,6 +31,6 @@
 | Russel | Minesweeper |  |  |
 | Sashank | Connect Four |  |  |
 | Sidra | Connect Four |  |  |
-| Taylor | Slot Machine |  |  |
+| Taylor | Mastermind |  |  |
 | Tony O. | Connect Four |  |  |
 | Zach | Solitaire |  |  |
