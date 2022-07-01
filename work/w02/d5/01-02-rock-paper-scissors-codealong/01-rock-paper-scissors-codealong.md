@@ -18,13 +18,15 @@ We're going to go with a clean, minimalistic user interface.
 
 Upon loading, the UI should look something like the following wireframe:
 
-<img src="https://i.imgur.com/Agh4bdE.png">
+<img src="https://i.imgur.com/Xq6Ar1L.png">
 
 Upon clicking the **Rock, Paper, Scissors... Go!** button, there will be a small display that counts down 3, 2, 1...:
 
-<img src="https://i.imgur.com/xYE9rv1.png">
+<img src="https://i.imgur.com/LbUq0Ia.png">
 
-After the countdown finishes, the scores will be updated; and if there's a winner, that symbol will be rendered with a grey border.
+After the countdown finishes, the scores will be updated; and if there's a winner, that symbol will be rendered with a grey border:
+
+<img src="https://i.imgur.com/mJe7SQW.png">
 
 ## Setup
 
