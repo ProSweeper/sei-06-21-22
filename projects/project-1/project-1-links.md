@@ -22,7 +22,7 @@
 | Jesus S. | Slot Machine | [link](https://github.com/jesusi3/slots) |  |
 | Joba | Connect Four | [link](https://github.com/jobaa11/connect-4-project-1) |  |
 | Joe | Concentration | [link](https://github.com/JoeyGrimes/Memory) |  |
-| Justin | Connect Four |  |  |
+| Justin | Connect Four | [link](https://github.com/jmendoza13/Connect4) |  |
 | Lillie | Connect Four | [link](https://github.com/lilliesheely/Connect4) |  |
 | **POD 3 - Stephanie** |  |  |  |
 | Munaaf | Connect Four |  |  |
