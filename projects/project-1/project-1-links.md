@@ -12,7 +12,6 @@
 | Claude | Connect Four |  |  |
 | Ernest | Concentration |  |  |
 | Ian | Connect Four |  |  |
-| Jason | Connect Four |  |  |
 | Jennifer | Solitaire |  |  |
 | **POD 2 - Mario** |  |  |  |
 | Andrew | Battleship |  |  |
