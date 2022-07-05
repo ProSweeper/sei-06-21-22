@@ -24,7 +24,8 @@
 | Justin | Connect Four | [link](https://github.com/jmendoza13/Connect4) |  |
 | Lillie | Connect Four | [link](https://github.com/lilliesheely/Connect4) |  |
 | **POD 3 - Stephanie** |  |  |  |
-| Munaaf | Connect Four |  |  |
+| Munaaf | Connect Four | [link](https://github.com/mkbozai/connect4) |  |
+| Nicole | Connect Four | [link](https://github.com/coleochieng/connect4) |  |
 | Nolawi | Connect Four | [link](https://github.com/noliw/Connect-4) |  |
 | Bec | Blackjack | [link](https://github.com/becp12/Blackjack) |  |
 | Russel | Minesweeper | [link](https://github.com/russellasagna/Minesweeper) |  |
