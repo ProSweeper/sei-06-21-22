@@ -28,3 +28,4 @@
 | W02D4 | [Playing Audio in the Browser](https://generalassembly.zoom.us/rec/share/1QNDiNDoW6VDHBV1gAYvOPCRXS4EsrqCG3Ysn8nv-5k4V4SP-HuOA6xKsYO416Xw.RHNLCdRRSrkQt5Aa?startTime=1656608758000) |
 | W02D4 | [Array Iterator Methods - Quiz](https://generalassembly.zoom.us/rec/share/1QNDiNDoW6VDHBV1gAYvOPCRXS4EsrqCG3Ysn8nv-5k4V4SP-HuOA6xKsYO416Xw.RHNLCdRRSrkQt5Aa?startTime=1656612008000) |
 | W02D5 | [Build Another Browser Game - RPS](https://generalassembly.zoom.us/rec/share/LSHa60yl7E6DrHrHay9dWgvqlsFeo28rpZN5rMbJmdm9HAbbyQEcv30k42eHjGXO.tkf0uES8GcVf0EHh?startTime=1656691207000) |
+| W02D5 | [Generate Personal Access Token for GitHub](https://generalassembly.zoom.us/rec/share/rYka-RcYqLkatEdPpfZlEkI_WiTI5Gqnow9v9D99KX7DR-QE-0g8PV_FQuxZdRY_.ST51C8V-lZO6S5_W?startTime=1656705124000) |
