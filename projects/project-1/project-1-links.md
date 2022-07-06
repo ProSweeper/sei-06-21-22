@@ -4,7 +4,7 @@
 |---|:---:|:---:|:---:|
 | **POD 1 - Devlin** |  |  |  |
 | Adam | Blackjack | [link](https://github.com/adamascencio/Blackjack) | [link](https://adamascencio.github.io/Blackjack/) |
-| Alexander | Connect Four | [link](https://github.com/ahaines10/connect-four) |  |
+| Alexander | Connect Four | [link](https://github.com/ahaines10/connect-four) | [link](https://ahaines10.github.io/connect-four/) |
 | Tony B. | Blackjack | [link](https://github.com/anthonybrockett/blackjack-project-1) | [link](https://anthonybrockett.github.io/blackjack-project-1/) |
 | Anthony N | Minesweeper | [link](https://github.com/abpandanguyen/Minesweeper-Project1) | [link](https://abpandanguyen.github.io/Minesweeper-Project1/) |
 | Beverly | Connect Four | [link](https://github.com/bevcook126/connect4project) | [link](https://bevcook126.github.io/connect4project/) |
