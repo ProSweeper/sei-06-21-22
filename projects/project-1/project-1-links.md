@@ -10,7 +10,7 @@
 | Beverly | Connect Four | [link](https://github.com/bevcook126/connect4project) | [link](https://bevcook126.github.io/connect4project/) |
 | Brianna | Mastermind | [link](https://github.com/heyjudesmom/Mastermind) | [link](https://heyjudesmom.github.io/Mastermind/) |
 | Claude | Connect Four | [link](https://github.com/claudecabalquinto/connect-4) | [link](https://claudecabalquinto.github.io/connect-4/) |
-| Ernest | Concentration | [link](https://github.com/loex345/Concentration) |  |
+| Ernest | Concentration | [link](https://github.com/loex345/Concentration) | [link](https://loex345.github.io/Concentration/) |
 | Ian | Connect Four | [link](https://github.com/ianchan3/Connect-Four) | [link](https://ianchan3.github.io/Connect-Four/) |
 | Jennifer | Connect Four | [link](https://github.com/jenstiza/Connect-Four) | [link](https://jenstiza.github.io/Connect-Four/) |
 | **POD 2 - Mario** |  |  |  |
