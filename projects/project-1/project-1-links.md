@@ -15,7 +15,7 @@
 | Jennifer | Connect Four | [link](https://github.com/jenstiza/Connect-Four) | [link](https://jenstiza.github.io/Connect-Four/) |
 | **POD 2 - Mario** |  |  |  |
 | Andrew | Battleship | [link](https://github.com/Andrewbui389/BattleShip) | [link](https://andrewbui389.github.io/BattleShip/) |
-| DK | Connect Four | [link](https://github.com/Dandd6541/Connect-4) |  |
+| DK | Connect Four | [link](https://github.com/Dandd6541/Connect-4) | [link](https://dandd6541.github.io/Connect-4/) |
 | Iris | Simon | [link](https://github.com/iris-personal/Simon) | [link](https://iris-personal.github.io/Simon/) |
 | Jessica | Concentration | [link](https://github.com/jessmucklow/MemoryGame) | [link](https://jessmucklow.github.io/MemoryGame/) |
 | Jesus A. | Connect Four | [link](https://github.com/aaguilarvf39/Connect-Four) | [link](https://aaguilarvf39.github.io/Connect-Four/) |
