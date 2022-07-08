@@ -32,5 +32,4 @@
 | Sashank | Connect Four | [link](https://github.com/sashankrayapudi/connect-four) | [link](https://sashankrayapudi.github.io/connect-four/) |
 | Sidra | Connect Four | [link](https://github.com/SidrAkhtar/connect-4) | [link](https://sidrakhtar.github.io/connect-4/) |
 | Taylor | Mastermind | [link](https://github.com/tnwatts/MasterMindFlayer) | [link](https://tnwatts.github.io/MasterMindFlayer/) |
-| Tony O. | Connect Four | [link](https://github.com/parseRock/connect-four) | [link](https://parserock.github.io/connect-four/) |
 | Zach | Solitaire | [link](https://github.com/zseever/solitaire) | [link](https://zseever.github.io/solitaire/) |
