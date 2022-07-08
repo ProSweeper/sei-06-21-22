@@ -30,4 +30,4 @@
 | W02D5 | [Build Another Browser Game - RPS](https://generalassembly.zoom.us/rec/share/LSHa60yl7E6DrHrHay9dWgvqlsFeo28rpZN5rMbJmdm9HAbbyQEcv30k42eHjGXO.tkf0uES8GcVf0EHh?startTime=1656691207000) |
 | W02D5 | [Generate Personal Access Token for GitHub](https://generalassembly.zoom.us/rec/share/rYka-RcYqLkatEdPpfZlEkI_WiTI5Gqnow9v9D99KX7DR-QE-0g8PV_FQuxZdRY_.ST51C8V-lZO6S5_W?startTime=1656705124000) |
 | W03D3 | [Deploy to GitHub Pages](https://generalassembly.zoom.us/rec/share/Q-irVOHnl864QHfIXzgvKZqSW5wnLEpFraccQkC0vMnALxHzpH19beDwficT2wJc.LqJAh318yaTwZQ5_?startTime=1657136708000) |
-| W03D4 | [Project 1 Assessment Prep](https://generalassembly.zoom.us/rec/share/LsayZvlPet8HFI1v6GxfHZ1ydzWj4J5G2VxJbsM0065FGkdGGR6zUY5E9_OowiFx.BZoaZ2PjhBO4teD2?startTime=1657223113000) |
+| W03D4 | [Project 1 Assessment Prep](https://generalassembly.zoom.us/rec/share/Bh_Oz-BfB19KrUBvCHPb9HJf38WFjhFezwCYjhiyFa0jbbSv0GcpULLdtNfFl59T.7QuGxfLbdhIwE4As?startTime=1657223113000) |
