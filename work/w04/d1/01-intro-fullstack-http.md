@@ -32,7 +32,7 @@
 
 ### Why Learn Full-Stack Web Development?
 
-- According to [U.S. News](https://money.usnews.com/careers/best-jobs/rankings/the-100-best-jobs) the second best job in 2021 was that of a **Software Developer**!
+- According to U.S. News & World Report the second best job in 2021 was that of a **Software Developer**!  In [U.S. News & World Report - 100 Best Jobs of 2022](https://money.usnews.com/careers/best-jobs/rankings/the-100-best-jobs) it's the 5th best job - not bad!
 
 - Further, according to [this 2021 StackOverflow Developer Survey](https://insights.stackoverflow.com/survey/2021#developer-type), **the role of Full-stack Developer is the most popular** as compared to other developer types.
 
