@@ -35,3 +35,4 @@
 | W04D1 | [Intro to Node.js](https://generalassembly.zoom.us/rec/share/-CsR94VOqTmi_ePHSYRKh6GzdQYdEiFopKEfP4NHyjgMIW6rtCEHVbuKIp5cYW7e.aNAs8tCA5ODNFM9R?startTime=1657559706000) |
 | W04D1 | [Node Module Exercises](https://generalassembly.zoom.us/rec/share/MBx_zV_48GQTYnij2ZgzmIQUzz7ZTH_h9BtaFinfsWWVzLpcKHHAI_bAZjIGL9OG.lWSd8hDHTj-49o4W?startTime=1657568706000) |
 | W04D1 | [Intro to Express](https://generalassembly.zoom.us/rec/share/MBx_zV_48GQTYnij2ZgzmIQUzz7ZTH_h9BtaFinfsWWVzLpcKHHAI_bAZjIGL9OG.lWSd8hDHTj-49o4W?startTime=1657570625000) |
+| W04D2 | [Express Routers & Controllers](https://generalassembly.zoom.us/rec/share/FMs51ddoWQGAaz-jI6_uVak8uCpFR7KI9qBL6_gd9ljTvVU3jkeGSy6cGd0cHfyx.hwM7Q0KD31SHtFZs?startTime=1657641607000) |
