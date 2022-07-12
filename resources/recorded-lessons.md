@@ -31,3 +31,7 @@
 | W02D5 | [Generate Personal Access Token for GitHub](https://generalassembly.zoom.us/rec/share/rYka-RcYqLkatEdPpfZlEkI_WiTI5Gqnow9v9D99KX7DR-QE-0g8PV_FQuxZdRY_.ST51C8V-lZO6S5_W?startTime=1656705124000) |
 | W03D3 | [Deploy to GitHub Pages](https://generalassembly.zoom.us/rec/share/Q-irVOHnl864QHfIXzgvKZqSW5wnLEpFraccQkC0vMnALxHzpH19beDwficT2wJc.LqJAh318yaTwZQ5_?startTime=1657136708000) |
 | W03D4 | [Project 1 Assessment Prep](https://generalassembly.zoom.us/rec/share/Bh_Oz-BfB19KrUBvCHPb9HJf38WFjhFezwCYjhiyFa0jbbSv0GcpULLdtNfFl59T.7QuGxfLbdhIwE4As?startTime=1657223113000) |
+| W04D1 | [Intro to Full-Stack Development & HTTP](https://generalassembly.zoom.us/rec/share/-CsR94VOqTmi_ePHSYRKh6GzdQYdEiFopKEfP4NHyjgMIW6rtCEHVbuKIp5cYW7e.aNAs8tCA5ODNFM9R?startTime=1657555206000) |
+| W04D1 | [Intro to Node.js](https://generalassembly.zoom.us/rec/share/-CsR94VOqTmi_ePHSYRKh6GzdQYdEiFopKEfP4NHyjgMIW6rtCEHVbuKIp5cYW7e.aNAs8tCA5ODNFM9R?startTime=1657559706000) |
+| W04D1 | [Node Module Exercises](https://generalassembly.zoom.us/rec/share/MBx_zV_48GQTYnij2ZgzmIQUzz7ZTH_h9BtaFinfsWWVzLpcKHHAI_bAZjIGL9OG.lWSd8hDHTj-49o4W?startTime=1657568706000) |
+| W04D1 | [Intro to Express](https://generalassembly.zoom.us/rec/share/MBx_zV_48GQTYnij2ZgzmIQUzz7ZTH_h9BtaFinfsWWVzLpcKHHAI_bAZjIGL9OG.lWSd8hDHTj-49o4W?startTime=1657570625000) |
