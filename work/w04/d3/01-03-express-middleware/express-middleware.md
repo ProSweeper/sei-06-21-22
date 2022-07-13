@@ -32,7 +32,7 @@ If you have previously cloned the repo, please synchronize your local repo with 
 
 1. Move into the repo/project folder:  `cd ~/code/express-todos`
 2. Fetch all commits:  `git fetch --all`
-3. Sync with the remote:  `git reset --hard origin/master`
+3. Sync with the remote:  `git reset --hard origin/main`
 4. Open project in VS Code:  `code .`
 
 #### Don't Already Have the `express-todos` Repo
