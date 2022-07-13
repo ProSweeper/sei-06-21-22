@@ -36,3 +36,5 @@
 | W04D1 | [Node Module Exercises](https://generalassembly.zoom.us/rec/share/MBx_zV_48GQTYnij2ZgzmIQUzz7ZTH_h9BtaFinfsWWVzLpcKHHAI_bAZjIGL9OG.lWSd8hDHTj-49o4W?startTime=1657568706000) |
 | W04D1 | [Intro to Express](https://generalassembly.zoom.us/rec/share/MBx_zV_48GQTYnij2ZgzmIQUzz7ZTH_h9BtaFinfsWWVzLpcKHHAI_bAZjIGL9OG.lWSd8hDHTj-49o4W?startTime=1657570625000) |
 | W04D2 | [Express Routers & Controllers](https://generalassembly.zoom.us/rec/share/FMs51ddoWQGAaz-jI6_uVak8uCpFR7KI9qBL6_gd9ljTvVU3jkeGSy6cGd0cHfyx.hwM7Q0KD31SHtFZs?startTime=1657641607000) |
+| W04D2 | [Express Routing Quiz](https://generalassembly.zoom.us/rec/share/8sGl0CC4HXKWw8hSQn8XGmqUlvcwUQrstiHVRsM_E7jaPVUKOZU5TYNNU5QH3a2U.BAqP-z_nqcTCoNJn?startTime=1657662305000) |
+| W04D2 | [Server-Side Debugging](https://generalassembly.zoom.us/rec/share/8sGl0CC4HXKWw8hSQn8XGmqUlvcwUQrstiHVRsM_E7jaPVUKOZU5TYNNU5QH3a2U.BAqP-z_nqcTCoNJn?startTime=1657669508000) |
