@@ -217,7 +217,7 @@ In our `first-express` app, we used the `app.get` method to define routes and al
 - Create each `router` in its own module from which it is exported.
 - Inside of **server.js** `require` and mount the `router` object in the request pipeline.
 
-> Express `route` objects are also middleware functions
+> Note:  A **data resource** is a "type" of data/information that applications create, read, update and/or delete (CRUD).
 
 ### Best Practice Routing Set Up by Express Generator
 
