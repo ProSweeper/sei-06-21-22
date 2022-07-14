@@ -40,3 +40,6 @@
 | W04D2 | [Server-Side Debugging](https://generalassembly.zoom.us/rec/share/8sGl0CC4HXKWw8hSQn8XGmqUlvcwUQrstiHVRsM_E7jaPVUKOZU5TYNNU5QH3a2U.BAqP-z_nqcTCoNJn?startTime=1657669508000) |
 | W04D3 | [Express Middleware - Part 1](https://generalassembly.zoom.us/rec/share/1VnkGjj9vnakn9SkM41lWaKWKfs8yEDfV4j8HeQArG8lpDnKCHR9rqXXQDJQ424a.8bWMq3sYANAwErcK?startTime=1657728750000) |
 | W04D3 | [Express Middleware - Part 2](https://generalassembly.zoom.us/rec/share/tKetzygiIAkFBUNKScpBJOb4TTUNbpW2HD8nvzOyAr6CE1sPI04uaah-TgotSnDI.-HO9ZJ4olOCFOwqr?startTime=1657741506000) |
+| W04D4 | [Intro to MongoDB & Atlas Setup](https://generalassembly.zoom.us/rec/share/T47fO9Vaf0ki3gKhz6GhcZX9loKFxsIQ9B3ep17AQVGpQOQKEt1UZApJcTNV.R9uvuc-1-SzBHV9N?startTime=1657814406000) |
+| W04D4 | [Intro to Mongoose - Part 1](https://generalassembly.zoom.us/rec/share/T47fO9Vaf0ki3gKhz6GhcZX9loKFxsIQ9B3ep17AQVGpQOQKEt1UZApJcTNV.R9uvuc-1-SzBHV9N?startTime=1657819511000) |
+| W04D4 | [Intro to Mongoose - Part 2]() |
