@@ -521,7 +521,7 @@ Copy and paste the following awesome but ugly form, then we'll review it...
     <input type="text" name="title">
   </label><br>
   <label>Release Year:
-    <input type="text" name="releaseYear">
+    <input type="number" name="releaseYear">
   </label><br>
   <label>MPAA Rating
     <select name="mpaaRating">
