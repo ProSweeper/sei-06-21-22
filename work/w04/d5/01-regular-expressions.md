@@ -51,6 +51,7 @@
     justify-content: center;
     align-items: center;
     background-color: oldlace;
+    margin: 0;
   }
 
   form {
