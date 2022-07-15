@@ -42,4 +42,4 @@
 | W04D3 | [Express Middleware - Part 2](https://generalassembly.zoom.us/rec/share/tKetzygiIAkFBUNKScpBJOb4TTUNbpW2HD8nvzOyAr6CE1sPI04uaah-TgotSnDI.-HO9ZJ4olOCFOwqr?startTime=1657741506000) |
 | W04D4 | [Intro to MongoDB & Atlas Setup](https://generalassembly.zoom.us/rec/share/T47fO9Vaf0ki3gKhz6GhcZX9loKFxsIQ9B3ep17AQVGpQOQKEt1UZApJcTNV.R9uvuc-1-SzBHV9N?startTime=1657814406000) |
 | W04D4 | [Intro to Mongoose - Part 1](https://generalassembly.zoom.us/rec/share/T47fO9Vaf0ki3gKhz6GhcZX9loKFxsIQ9B3ep17AQVGpQOQKEt1UZApJcTNV.R9uvuc-1-SzBHV9N?startTime=1657819511000) |
-| W04D4 | [Intro to Mongoose - Part 2]() |
+| W04D4 | [Intro to Mongoose - Part 2](https://generalassembly.zoom.us/rec/share/sgwhOcNVcjtr12JRCAiyCnkHRoPNmLGQRxScLEp0-2p0Zrcg87qAnku5voOkZqaC.1MW43SkgQkdb37cU?startTime=1657827905000) |
