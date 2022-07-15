@@ -34,35 +34,51 @@
 
 - In the HTML pane, let's add a simple form:
 
-	```html
-	<form>
-		text: <input type="text" required pattern="Fred">
-	</form>
-	```
+  ```html
+  <form>
+    <input type="text" required
+        pattern="Fred">
+  </form>
+  ```
 
 - Put this in your pen's CSS pane:
 
-	```css
-	body {
-	  font: 14pt Helvetica;
-	}
-	form {
-	  padding: 50px;
-	  border: 4px solid lightgreen;
-	  border-radius: 20px;
-	}
-	form:invalid {
-	  border-color: yellow;
-	}
-	input {
-	  font: 14pt Helvetica;
-	  margin: 10px;
-	  padding: 4px;
-	}
-	input:invalid {
-	  border-color: red;
-	}
-	```
+  ```css
+  body {
+    font: 6vmin Helvetica;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: oldlace;
+  }
+
+  form {
+    padding: 10vmin;
+    border: 2vmin solid green;
+    border-radius: 4vmin;
+    background-color: lightgreen;
+  }
+
+  form:invalid {
+    border-color: red;
+    background-color: tomato;
+  }
+
+  input {
+    font: bold 10vmin Helvetica;
+    margin: 10vmin;
+    padding: 4vmin;
+    border: 1.8vmin solid green;
+    border-radius: 3vmin;
+    background-color: oldlace;
+    outline: none;
+  }
+
+  input:invalid {
+    border-color: red;
+  }
+  ```
 
 - We won't need to change our CSS going forward, so go ahead and hide the CSS pane.
 
