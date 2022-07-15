@@ -306,27 +306,30 @@
  </thead>
  <tbody>
   <tr>
-   <td><a href="/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/exec" title="The exec() method executes a search for a match in a specified string. Returns a result array, or null."><code>exec</code></a></td>
+   <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/exec" title="The exec() method executes a search for a match in a specified string. Returns a result array, or null."><code>exec</code></a></td>
    <td>A <code>RegExp</code> method that executes a search for a match in a string. It returns an array of information.</td>
   </tr>
   <tr>
-   <td><a href="/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/test" title="The test() method executes a search for a match between a regular expression and a specified string. Returns true or false."><code>test</code></a></td>
+   <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/test" title="The test() method executes a search for a match between a regular expression and a specified string. Returns true or false."><code>test</code></a></td>
    <td>A <code>RegExp</code> method that tests for a match in a string. It returns true or false.</td>
   </tr>
   <tr>
-   <td><a href="/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/match" title="The match() method retrieves the matches when matching a string against a regular expression."><code>match</code></a></td>
+   <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/match" title="The match() method retrieves the matches when matching a string against a regular expression."><code>match</code></a></td>
    <td>A <code>String</code> method that executes a search for a match in a string. It returns an array of information or null on a mismatch.</td>
   </tr>
   <tr>
-   <td><a href="/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/search" title="The search() method executes a search for a match between a regular expression and this String object."><code>search</code></a></td>
+   <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/search" title="The search() method executes a search for a match between a regular expression and this String object."><code>search</code></a></td>
    <td>A <code>String</code> method that tests for a match in a string. It returns the index of the match, or -1 if the search fails.</td>
   </tr>
   <tr>
-   <td><a href="/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace" title="The replace() method returns a new string with some or all matches of a pattern replaced by a replacement. The pattern can be a string or a RegExp, and the replacement can be a string or a function to be called for each match."><code>replace</code></a></td>
+   <td>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace" title="The replace() method returns a new string with some or all matches of a pattern replaced by a replacement. The pattern can be a string or a RegExp, and the replacement can be a string or a function to be called for each match."><code>replace</code></a><br>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replaceAll" title="The replace() method returns a new string with some or all matches of a pattern replaced by a replacement. The pattern can be a string or a RegExp, and the replacement can be a string or a function to be called for each match."><code>replaceAll</code></a>
+   </td>
    <td>A <code>String</code> method that executes a search for a match in a string, and replaces the matched substring with a replacement substring.</td>
   </tr>
   <tr>
-   <td><a href="/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split" title="Technical review completed."><code>split</code></a></td>
+   <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split" title="Technical review completed."><code>split</code></a></td>
    <td>A <code>String</code> method that uses a regular expression or a fixed string to break a string into an array of substrings.</td>
   </tr>
  </tbody>
