@@ -8,7 +8,7 @@
 | Tony |  |  |  |  |
 | Anthony |  |  |  |  |
 | Beverly |  |  |  |  |
-| Bri |  |  |  |  |
+| Bri | Local Biz Purch Tracker |  |  |  |
 | Claude |  |  |  |  |
 | Ernest |  |  |  |  |
 | Ian |  |  |  |  |
@@ -16,7 +16,7 @@
 | POD 2 - Devlin |  |  |  |  |
 | Andrew |  |  |  |  |
 | DK |  |  |  |  |
-| Iris |  |  |  |  |
+| Iris | LyrAssist |  |  |  |
 | Jessica |  |  |  |  |
 | Jesus A. |  |  |  |  |
 | Jesus S. |  |  |  |  |
