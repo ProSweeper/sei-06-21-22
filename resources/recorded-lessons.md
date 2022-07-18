@@ -43,3 +43,4 @@
 | W04D4 | [Intro to MongoDB & Atlas Setup](https://generalassembly.zoom.us/rec/share/T47fO9Vaf0ki3gKhz6GhcZX9loKFxsIQ9B3ep17AQVGpQOQKEt1UZApJcTNV.R9uvuc-1-SzBHV9N?startTime=1657814406000) |
 | W04D4 | [Intro to Mongoose - Part 1](https://generalassembly.zoom.us/rec/share/T47fO9Vaf0ki3gKhz6GhcZX9loKFxsIQ9B3ep17AQVGpQOQKEt1UZApJcTNV.R9uvuc-1-SzBHV9N?startTime=1657819511000) |
 | W04D4 | [Intro to Mongoose - Part 2](https://generalassembly.zoom.us/rec/share/sgwhOcNVcjtr12JRCAiyCnkHRoPNmLGQRxScLEp0-2p0Zrcg87qAnku5voOkZqaC.1MW43SkgQkdb37cU?startTime=1657827905000) |
+| W05D1 | [Embedding Related Data in Mongoose](https://generalassembly.zoom.us/rec/share/yV_GkCbnGpBE6p7HAnP14k4rkqPJcEaPV_Sb7cWqhKX3KFLMH7VpddulupHcuiQI.cT5bhP0BYvEC8ASI?startTime=1658160004000) |
