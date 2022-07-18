@@ -42,7 +42,7 @@ Currently, the `cast` property on the `Movie` model holds an array of strings re
 
 During this lesson, we will be updating the array to hold ObjectIds instead.
 
-Mongoose will have a problem if it expects an ObjectId and gets a string instead, so let's clear out any strings that might be in the movie documents.
+Mongoose will have a problem if it expects an `ObjectId` and gets a string instead, so let's clear out any strings that might be in the movie documents.
 
 We will use a Node REPL to update the data and the [Perform CRUD Using Mongoose Models in a Node REPL](https://gist.github.com/jim-clark/57b646abbb6c0ce09f9fa948eab6febc) guide can help us. 
 
@@ -68,7 +68,9 @@ The starter code has a few updates from the _Mongoose - Embedding Related Data_ 
 
   > Note: Implementing the code for Performers was the optional exercise previously assigned.
 
-- Be sure to checkout the date "fix" required in the `create` action.
+- Be sure to check out the date "fix" required in the `create` action.
+
+- Also, check out how the performers `newPerformer` function to see how we can sort documents.
 
 - **Go ahead a create a few performers** - feel free to use these from Star Wars and Caddyshack:
 
