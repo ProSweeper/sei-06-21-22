@@ -32,4 +32,4 @@
 | Sashank |  |  |  |  |
 | Sidra | Knitting Patterns |  |  |  |
 | Taylor |  |  |  |  |
-| Zach |  |  |  |  |
+| Zach | Daily Stocks |  |  |  |
