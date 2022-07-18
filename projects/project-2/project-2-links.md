@@ -5,7 +5,7 @@
 | POD 1 - Steph |  |  |  |  |
 | Adam |  |  |  |  |
 | Alex | Hiking with Commenting & Favorites |  |  |  |
-| Tony |  |  |  |  |
+| Tony | Fitness Platform |  |  |  |
 | Anthony |  | [link](https://trello.com/b/TiiQjqaC/sei-project-2) |  |  |
 | Beverly | Oreo Fan Club |  |  |  |
 | Bri | Local Biz Purch Tracker |  |  |  |
