@@ -4,7 +4,7 @@
 |---|:---:|:---:|:---:|:---:|
 | POD 1 - Steph |  |  |  |  |
 | Adam |  |  |  |  |
-| Alex |  |  |  |  |
+| Alex | Hiking with Commenting & Favorites |  |  |  |
 | Tony |  |  |  |  |
 | Anthony |  | [link](https://trello.com/b/TiiQjqaC/sei-project-2) |  |  |
 | Beverly |  |  |  |  |
@@ -26,7 +26,7 @@
 | POD 3 - Mario |  |  |  |  |
 | Munaaf |  |  |  |  |
 | Nicole |  |  |  |  |
-| Noli |  |  |  |  |
+| Noli | Events with Commenting |  |  |  |
 | Bec | In The Loop (Crocheting) |  |  |  |
 | Russel |  |  |  |  |
 | Sashank |  |  |  |  |
