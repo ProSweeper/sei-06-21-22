@@ -6,13 +6,13 @@
 | Adam |  |  |  |  |
 | Alex |  |  |  |  |
 | Tony |  |  |  |  |
-| Anthony |  |  |  |  |
+| Anthony |  | [link](https://trello.com/b/TiiQjqaC/sei-project-2) |  |  |
 | Beverly |  |  |  |  |
 | Bri | Local Biz Purch Tracker |  |  |  |
 | Claude |  |  |  |  |
 | Ernest |  |  |  |  |
 | Ian |  |  |  |  |
-| Jennifer |  |  |  |  |
+| Jennifer | Kales From the Crypt |  |  |  |
 | POD 2 - Devlin |  |  |  |  |
 | Andrew |  |  |  |  |
 | DK |  |  |  |  |
@@ -27,9 +27,9 @@
 | Munaaf |  |  |  |  |
 | Nicole |  |  |  |  |
 | Noli |  |  |  |  |
-| Bec |  |  |  |  |
+| Bec | In The Loop (Crocheting) |  |  |  |
 | Russel |  |  |  |  |
 | Sashank |  |  |  |  |
-| Sidra |  |  |  |  |
+| Sidra | Knitting Patterns |  |  |  |
 | Taylor |  |  |  |  |
 | Zach |  |  |  |  |
