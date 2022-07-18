@@ -7,7 +7,7 @@
 | Alex | Hiking with Commenting & Favorites |  |  |  |
 | Tony |  |  |  |  |
 | Anthony |  | [link](https://trello.com/b/TiiQjqaC/sei-project-2) |  |  |
-| Beverly |  |  |  |  |
+| Beverly | Oreo Fan Club |  |  |  |
 | Bri | Local Biz Purch Tracker |  |  |  |
 | Claude |  |  |  |  |
 | Ernest |  |  |  |  |
@@ -22,14 +22,14 @@
 | Jesus S. |  |  |  |  |
 | Joba |  |  |  |  |
 | Justin |  |  |  |  |
-| Lillie |  |  |  |  |
+| Lillie | Neighborhood Puzzle Swap |  |  |  |
 | POD 3 - Mario |  |  |  |  |
 | Munaaf |  |  |  |  |
 | Nicole |  |  |  |  |
 | Noli | Events with Commenting |  |  |  |
 | Bec | In The Loop (Crocheting) |  |  |  |
 | Russel |  |  |  |  |
-| Sashank |  |  |  |  |
+| Sashank | Create an Aquarium |  |  |  |
 | Sidra | Knitting Patterns |  |  |  |
 | Taylor |  |  |  |  |
 | Zach | Daily Stocks |  |  |  |
