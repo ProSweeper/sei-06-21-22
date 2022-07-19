@@ -66,7 +66,7 @@ Styling is secondary, spend time on it only after the functionality has been imp
 
 	##### Hints
 
-	To show a list of _tickets_ that belong to a _flight_ in the `flights/show.ejs`, the flight controller's `show` action is going to have pass that array of flights to be rendered.  This is going to require the `show` action to make a separate query (inside of the callback of the `Flight.findById` call) to retrieve the flights as follows:
+	To show a list of _tickets_ that belong to a _flight_ in the `flights/show.ejs`, the flight controller's `show` action is going to have pass that array of tickets to be rendered.  This is going to require the `show` action to make a separate query (inside of the callback of the `Flight.findById` call) to retrieve the tickets as follows:
 	
 	```js
 	Flight.findById(req.params.id, function(err, flight) {
