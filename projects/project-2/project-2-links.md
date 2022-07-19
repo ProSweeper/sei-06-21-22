@@ -3,24 +3,24 @@
 | Student | Project Name | Planning (Trello) | GitHub | Hosted Site |
 |---|:---:|:---:|:---:|:---:|
 | POD 1 - Steph |  |  |  |  |
-| Adam |  |  |  |  |
+| Adam | Task Tracker |  |  |  |
 | Alex | Hiking with Commenting & Favorites |  |  |  |
 | Tony | Fitness Platform |  |  |  |
-| Anthony |  | [link](https://trello.com/b/TiiQjqaC/sei-project-2) |  |  |
+| Anthony | Meme Archive | [link](https://trello.com/b/TiiQjqaC/sei-project-2) |  |  |
 | Beverly | Oreo Fan Club |  |  |  |
 | Bri | Local Biz Purch Tracker |  |  |  |
-| Claude |  |  |  |  |
-| Ernest |  |  |  |  |
-| Ian |  |  |  |  |
+| Claude | Sneaker Posts |  |  |  |
+| Ernest | Exercise Diary |  |  |  |
+| Ian | Climate Change Posts |  |  |  |
 | Jennifer | Kales From the Crypt |  |  |  |
 | POD 2 - Devlin |  |  |  |  |
-| Andrew |  |  |  |  |
+| Andrew | Time Keeping |  |  |  |
 | DK |  |  |  |  |
 | Iris | LyrAssist |  |  |  |
 | Jessica |  |  |  |  |
 | Jesus A. |  |  |  |  |
 | Jesus S. |  |  |  |  |
-| Joba |  |  |  |  |
+| Joba | SoulSearching |  |  |  |
 | Justin |  |  |  |  |
 | Lillie | Neighborhood Puzzle Swap |  |  |  |
 | POD 3 - Mario |  |  |  |  |
