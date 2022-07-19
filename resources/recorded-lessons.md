@@ -45,3 +45,4 @@
 | W04D4 | [Intro to Mongoose - Part 2](https://generalassembly.zoom.us/rec/share/sgwhOcNVcjtr12JRCAiyCnkHRoPNmLGQRxScLEp0-2p0Zrcg87qAnku5voOkZqaC.1MW43SkgQkdb37cU?startTime=1657827905000) |
 | W05D1 | [Embedding Related Data in Mongoose](https://generalassembly.zoom.us/rec/share/yV_GkCbnGpBE6p7HAnP14k4rkqPJcEaPV_Sb7cWqhKX3KFLMH7VpddulupHcuiQI.cT5bhP0BYvEC8ASI?startTime=1658160004000) |
 | W05D1 | [Intro to CS Curriculum](https://generalassembly.zoom.us/rec/share/YN5UZTBCUvTFdk91OSFuETtJEaVrA-ROeNtpj3ISzLdnOgYwDWNtpFJBKKSrzNHy.duhGvIO_J6P5SXtq?startTime=1658173506000) |
+| W05D2 | [Referencing Related Data in Mongoose](https://generalassembly.zoom.us/rec/share/o54jFRvcnwhzlZ1EnpjRChQvmbP8WfIF8pzEeLqWsT0KdksPfwmF04xJHexU6PGI.owALbfWa6TQASASa?startTime=1658246406000) |
