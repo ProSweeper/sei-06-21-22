@@ -19,7 +19,7 @@
 | Iris | LyrAssist |  |  |  |
 | Jessica |  |  |  |  |
 | Jesus A. |  |  |  |  |
-| Jesus S. |  |  |  |  |
+| Jesus S. | Comic Trio |  |  |  |
 | Joba | SoulSearching |  |  |  |
 | Justin | Crypto Chat |  |  |  |
 | Lillie | Neighborhood Puzzle Swap |  |  |  |
