@@ -17,8 +17,8 @@
 | Andrew | Time Keeping |  |  |  |
 | DK |  |  |  |  |
 | Iris | LyrAssist |  |  |  |
-| Jessica |  |  |  |  |
-| Jesus A. |  |  |  |  |
+| Jessica | PetPics |  |  |  |
+| Jesus A. | CarCollection |  |  |  |
 | Jesus S. | Comic Trio |  |  |  |
 | Joba | SoulSearching |  |  |  |
 | Justin | Crypto Chat |  |  |  |
