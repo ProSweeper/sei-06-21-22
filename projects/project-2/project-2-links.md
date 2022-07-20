@@ -24,11 +24,11 @@
 | Justin | Crypto Chat |  |  |  |
 | Lillie | Neighborhood Puzzle Swap |  |  |  |
 | POD 3 - Mario |  |  |  |  |
-| Munaaf |  |  |  |  |
+| Munaaf | Know Your Meme |  |  |  |
 | Nicole |  |  |  |  |
 | Noli | Job Application Tracker |  |  |  |
 | Bec | In The Loop (Crocheting) |  |  |  |
-| Russel |  |  |  |  |
+| Russel | Anime |  |  |  |
 | Sashank | Create an Aquarium |  |  |  |
 | Sidra | Knitting Patterns |  |  |  |
 | Taylor |  |  |  |  |
