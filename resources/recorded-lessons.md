@@ -46,3 +46,5 @@
 | W05D1 | [Embedding Related Data in Mongoose](https://generalassembly.zoom.us/rec/share/yV_GkCbnGpBE6p7HAnP14k4rkqPJcEaPV_Sb7cWqhKX3KFLMH7VpddulupHcuiQI.cT5bhP0BYvEC8ASI?startTime=1658160004000) |
 | W05D1 | [Intro to CS Curriculum](https://generalassembly.zoom.us/rec/share/YN5UZTBCUvTFdk91OSFuETtJEaVrA-ROeNtpj3ISzLdnOgYwDWNtpFJBKKSrzNHy.duhGvIO_J6P5SXtq?startTime=1658173506000) |
 | W05D2 | [Referencing Related Data in Mongoose](https://generalassembly.zoom.us/rec/share/o54jFRvcnwhzlZ1EnpjRChQvmbP8WfIF8pzEeLqWsT0KdksPfwmF04xJHexU6PGI.owALbfWa6TQASASa?startTime=1658246406000) |
+| W05D2 | [Routing Quiz Study Guide](https://generalassembly.zoom.us/rec/share/Ii-fcRkpyvU6P__IRo1Qoa-5zb0leE_cw3IZDr8OXsR97of5FimpzSjgilWGc-Jy.9-J8eber4FQp94UO?startTime=1658267106000) |
+| W05D2 | [CS - Big O Notation](https://generalassembly.zoom.us/rec/share/Ii-fcRkpyvU6P__IRo1Qoa-5zb0leE_cw3IZDr8OXsR97of5FimpzSjgilWGc-Jy.9-J8eber4FQp94UO?startTime=1658272506000) |
