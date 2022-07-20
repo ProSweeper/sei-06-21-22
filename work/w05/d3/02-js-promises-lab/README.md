@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/PMyzlb1.png">
 
-# JS Promises Lab
+# JS Promises/Mongoose Lab
 
 ## Intro
 
@@ -34,11 +34,13 @@ Promise.resolve().then(function() {
   console.log('HERE')
   // 1) Find all movie docs
   return Movie.find({});  // remember to return the promise!
-}).then(function(result) {
+})
+.then(function(result) {
   console.log('1): ', result)
   // 2) Find all performer docs
 
-}).then(function(result) {
+})
+.then(function(result) {
   console.log('2): ', result)
   // Follow the same .then structure used above from this point forward
   // Don't forget to console.log the exercise number also as shown above 
@@ -46,37 +48,37 @@ Promise.resolve().then(function() {
   
 })
 
-  // 4) Find all movies that are still showing
+// 4) Find all movies that are still showing
 
 
-  // 5) Find all movies with an MPAA Rating of 'PG' or 'PG-13'
-  // Hint: Google "MongoDB $in operator" or use Mongoose's .where & .in Query Builder methods using this syntax:
-  // Model.where('property').in(['val1', 'val2', etc.]).then(...)
+// 5) Find all movies with an MPAA Rating of 'PG' or 'PG-13'
+// Hint: Google "MongoDB $in operator" or use Mongoose's .where & .in Query Builder methods using this syntax:
+// Model.where('property').in(['val1', 'val2', etc.]).then(...)
 
 
-  // 6) Find the first movie found with a releaseYear of 2018
+// 6) Find the first movie found with a releaseYear of 2018
 
 
-  // 7) Find all movies released after 1980
-  
-
-  // 8) Find all movies whose titles start with a 'C'
-  // Hint: StackOverflow will show how to use a regular expression
-  
-
-  // 9) Find the performer named 'Rami Malek'
-  
-  
-  // 10) Find all performers born before 1980
-  
-  
-  // 11) Find all performers whose name starts with a 'J'
-  // Hint: Regular Expressions strike again!
+// 7) Find all movies released after 1980
 
 
-  // 12) Add the ObjectId of performer 'Bill Murray' to
-  //     the movie Caddyshack's cast property and save.
-  //     console.log the updated movie.
+// 8) Find all movies whose titles start with a 'C'
+// Hint: StackOverflow will show how to use a regular expression
+
+
+// 9) Find the performer named 'Rami Malek'
+
+
+// 10) Find all performers born before 1980
+
+
+// 11) Find all performers whose name starts with a 'J'
+// Hint: Regular Expressions strike again!
+
+
+// 12) Add the ObjectId of performer 'Bill Murray' to
+//     the movie Caddyshack's cast property and save.
+//     console.log the updated movie.
 
 
 .then(function() {
@@ -84,7 +86,7 @@ Promise.resolve().then(function() {
 });
 ```
 
-2. Write the code for each exercise. Do not use a semicolon at the end of any `.then()`, otherwise the included `.then()` at the end of the code will not properly shut down the app.
+2. Write the code for each exercise. Do not use a semicolon at the end of any `.then()` method calls, otherwise the included `.then()` at the end of the code will not properly shut down the app.
 
 
 ## Hints
