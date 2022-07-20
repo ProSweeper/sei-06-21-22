@@ -127,7 +127,7 @@ const p = new Promise(function(resolve, reject) {
 });
 ```
 
-The promise, `p`, has been _resolved_ with the value `42` and is not in the state of `fulfilled`.
+The promise, `p`, has been _resolved_ with the value `42` and is now in the state of `fulfilled`.
 
 Note that promises can only be resolved with a single value/thing, however it can be anything such as an object, etc.
 
