@@ -488,7 +488,7 @@ We'll review as we type this:
 .then(function(results) {  // one day we'll destructure this!
   const mark = results[0];
   const starWars = results[1];
-  starWars.cast.push(mark);
+  starWars.cast.push(mark._id);
   return starWars.save();
 })
 // Insert the above code before this next line
