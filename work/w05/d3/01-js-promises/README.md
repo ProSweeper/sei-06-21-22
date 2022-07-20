@@ -355,15 +355,17 @@ The following code deletes all movie documents and correctly ends the program:
 ```js
 // Just a query object as an arg, no callback!
 Movie.deleteMany({})
-// The cb provided to the .then does not use the error-first signature
-// use .catch instead to deal with errors
-.then(function(results) {
-  // results will be whatever the promise
-  // returned by the deleteMany method resolves to
-  console.log(results);
-  // process.exit() immediately exits a Node program
-  process.exit();
-});
+  // The cb provided to the .then does not use the error-first signature
+  // use .catch instead to deal with errors
+  .then(function(results) {
+    // results will be whatever the promise
+    // returned by the deleteMany method resolves to
+    console.log(results);
+  })
+  .then(function() {
+    // process.exit() "cleanly" shuts down a Node program
+    process.exit();
+  });
 ```
 
 Be sure to review the comments included with the code above to better understand how to use promises with Mongoose.
@@ -376,15 +378,18 @@ The following code will delete the performers after the movies are deleted and t
 
 ```js
 Movie.deleteMany({})
-.then(function(results) {
-  console.log('Deleted movies: ', results);
-  // Now let's delete the performers and return the "promise"
-  return Performer.deleteMany({});
-})
-.then(function(results) {
-  console.log('Deleted performers:', results);
-  process.exit();
-})
+  .then(function(results) {
+    console.log('Deleted movies: ', results);
+    // Now let's delete the performers and return the "promise"
+    return Performer.deleteMany({});
+  })
+  .then(function(results) {
+    console.log('Deleted performers:', results);
+  })
+  .then(function() {
+    // process.exit() "cleanly" shuts down a Node program
+    process.exit();
+  });
 ``` 
 
 The above works, but there's a more performant approach... 
@@ -406,11 +411,11 @@ const p2 = Performer.deleteMany({});
 // Promise.all will return a single promise that resolves
 // only after all of the array's promises resolve
 Promise.all([p1, p2])
-.then(function(results) {
-  console.log(results);
-})
-// Yes we can!
-.then(process.exit);
+  .then(function(results) {
+    console.log(results);
+  })
+  // Yes we can!
+  .then(process.exit);
 ```
 
 The above code now removes documents from the _movies_ & _performers_ collections in **parallel**!
@@ -423,14 +428,14 @@ Finally, let's create some data - beginning with performers:
 ...
 
 Promise.all([p1, p2])
-.then(function(results) {
-  console.log(results);
-  return Performer.create(data.performers);
-})
-.then(function(performers) {
-  console.log(performers);
-})
-.then(process.exit);
+  .then(function(results) {
+    console.log(results);
+    return Performer.create(data.performers);
+  })
+  .then(function(performers) {
+    console.log(performers);
+  })
+  .then(process.exit);
 ```
 	
 Try it out!
@@ -458,7 +463,7 @@ For example, **don't** write code like:
 ```js
 // Don't do this in a seed 
 Movie.findById('5c609ac7641fdd63f6b8b71d')
-.then(...)
+  .then(...)
 ```
 
 <details>
@@ -486,6 +491,7 @@ We'll review as we type this:
   starWars.cast.push(mark);
   return starWars.save();
 })
+// Insert the above code before this next line
 .then(process.exit);
 ```
 
