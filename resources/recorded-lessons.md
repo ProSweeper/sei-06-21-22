@@ -48,3 +48,4 @@
 | W05D2 | [Referencing Related Data in Mongoose](https://generalassembly.zoom.us/rec/share/o54jFRvcnwhzlZ1EnpjRChQvmbP8WfIF8pzEeLqWsT0KdksPfwmF04xJHexU6PGI.owALbfWa6TQASASa?startTime=1658246406000) |
 | W05D2 | [Routing Quiz Study Guide](https://generalassembly.zoom.us/rec/share/Ii-fcRkpyvU6P__IRo1Qoa-5zb0leE_cw3IZDr8OXsR97of5FimpzSjgilWGc-Jy.9-J8eber4FQp94UO?startTime=1658267106000) |
 | W05D2 | [CS - Big O Notation](https://generalassembly.zoom.us/rec/share/Ii-fcRkpyvU6P__IRo1Qoa-5zb0leE_cw3IZDr8OXsR97of5FimpzSjgilWGc-Jy.9-J8eber4FQp94UO?startTime=1658272506000) |
+| W05D3 | [JS Promises](https://generalassembly.zoom.us/rec/share/CxqQC4KQtdE6GsQyO1zzh66gVDuiLjvk9-4ulsXLOBQOnlNViQAETS0quK145DeP.uMVZtyJW5zS9dPrF?startTime=1658332804000) |
