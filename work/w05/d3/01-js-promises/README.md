@@ -305,7 +305,7 @@ require('./config/database');
 const Movie = require('./models/movie');
 const Performer = require('./models/performer');
 
-// For better organization, the see data is being stored in a separate data.js module
+// For better organization, the seed data is being stored in a separate data.js module
 const data = require('./data');
 ```
 
