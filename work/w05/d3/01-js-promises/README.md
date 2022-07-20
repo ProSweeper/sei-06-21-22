@@ -72,7 +72,7 @@ const queryPromise = Movie.find({});
 
 > Note that usually we will chain the `.then` method onto the `find()` method, but the above syntax more clearly demonstrates the point that a promise is being returned when calling `find()`.
 
-A promise represents the eventual completion, or failure, of the asynchronous operation performed by the function/method that returned the promise.
+**👉 A promise represents the eventual completion, or failure, of the asynchronous operation performed by the function/method that returned the promise.**
 
 Although we more commonly use promises returned by methods like `find()` above, we can better learn about promises in general by creating our own...
 
