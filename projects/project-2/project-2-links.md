@@ -31,5 +31,5 @@
 | Russel | Anime |  |  |  |
 | Sashank | Create an Aquarium |  |  |  |
 | Sidra | Knitting Patterns |  |  |  |
-| Taylor |  |  |  |  |
+| Taylor | Kitchen Recipes |  |  |  |
 | Zach | Daily Stocks |  |  |  |
