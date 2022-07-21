@@ -17,9 +17,9 @@
 | Andrew | Time Keeping | [link](https://trello.com/b/HVaYAYck/p2) |  |  |
 | DK | Car Posts |  |  |  |
 | Iris | LyrAssist | [link](https://trello.com/b/UEt3aON7/project-2-board) |  |  |
-| Jessica | PetPics |  |  |  |
+| Jessica | PetPics | [link](https://trello.com/b/ibP68Jgd/project-2) |  |  |
 | Jesus A. | CarCollection |  |  |  |
-| Jesus S. | Comic Trio |  |  |  |
+| Jesus S. | Comic Trio | [link](https://trello.com/b/EpUeiWzE/project-2) |  |  |
 | Joba | SoulSearching |  |  |  |
 | Justin | Crypto Chat |  |  |  |
 | Lillie | Neighborhood Puzzle Swap | [link](https://trello.com/b/CWxkey7I/project-2) |  |  |
