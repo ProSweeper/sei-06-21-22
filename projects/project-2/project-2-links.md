@@ -25,7 +25,7 @@
 | Lillie | Neighborhood Puzzle Swap |  |  |  |
 | POD 3 - Mario |  |  |  |  |
 | Munaaf | Know Your Meme |  |  |  |
-| Nicole |  |  |  |  |
+| Nicole | Pharrell Blog with Commenting |  |  |  |
 | Noli | Job Application Tracker |  |  |  |
 | Bec | In The Loop (Crocheting) |  |  |  |
 | Russel | Anime |  |  |  |
