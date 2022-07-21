@@ -895,8 +895,9 @@ The last route to add is the route that will logout our user:
 ```js
 // OAuth logout route
 router.get('/logout', function(req, res){
-  req.logout();
-  res.redirect('/movies');
+  req.logout(function() {
+    res.redirect('/movies');
+  });
 });
 ```
 	
@@ -1065,7 +1066,7 @@ Here's the updated **views/movies/show.ejs** that displays the user's name and a
     <% movie.reviews.forEach(function(r) { %>
       <% total += r.rating %>
       <tr>
-        <td class="review-user"><img alt="avatar" src="<%= r.userAvatar %> referrerpolicy="no-referrer"" ><%= r.userName %></td>
+        <td class="review-user"><img alt="avatar" src="<%= r.userAvatar %> referrerpolicy="no-referrer" ><%= r.userName %></td>
         <td><%= r.createdAt.toLocaleDateString() %></td>
         <td><%= r.content %></td>
         <td><%= r.rating %></td>
