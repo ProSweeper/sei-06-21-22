@@ -31,8 +31,10 @@ Additionally as part of the project's requirements, you'll be required to take a
       	- **Current/MVP**<br>
       	- **Completed**<br>
       <br>**User Stories** must follow the following template:<br>**_As a \<user role\>, I want \<feature\>, because \<reason\>._**<br>The _reason_ is optional if it's blatantly obvious.
-      <br><br>Note: Prioritize your user stories within the Ice Box with your "wish 
+      <br><br>Prioritize your user stories within the Ice Box with your "wish 
       list" stories at the bottom.
+      <br><br>Then move the stories that make up the MVP to the Current/MVP list (in the order that you want to implement them) leaving behind the "real" optional/ice box features.
+      <br><br>When all of the completed stories have been moved to the Completed list, move the highest-priority Ice Box story to the Current/MVP list and implement it, etc.
     
     ☐ A **Wireframes** list containing wireframes for the app's main pages of functionality, e.g. Landing Page, Posts Index Page, Favorite Posts Page, Add Post Page, etc.
     
