@@ -4,7 +4,7 @@
 |---|:---:|:---:|:---:|:---:|
 | POD 1 - Steph |  |  |  |  |
 | Adam | Task Tracker | [link](https://trello.com/b/jkzYbntl/project-2) |  |  |
-| Alex | Hiking with Commenting & Favorites |  |  |  |
+| Alex | Hiking | [link](https://trello.com/b/2DZgcoYD/p2) |  |  |
 | Tony | Fitness Platform | [link](https://trello.com/b/TiiQjqaC/sei-project-2) |  |  |
 | Anthony | Meme Archive |  |  |  |
 | Beverly | Oreo Fan Club | [link](https://trello.com/b/uwxkp1hv/p2) |  |  |
@@ -29,7 +29,7 @@
 | Noli | Job Application Tracker | [link](https://trello.com/b/qltC7ve2/p2) |  |  |
 | Bec | In The Loop (Crocheting) | [link](https://trello.com/b/WLhJuRDH/project-2) |  |  |
 | Russel | raMEN (Anime) | [link](https://trello.com/b/fTMCM0TJ/ramen) |  |  |
-| Sashank | Create an Aquarium |  |  |  |
+| Sashank | Create an Aquarium | [link](https://trello.com/b/Vgd1PjKq/p2) |  |  |
 | Sidra | Knitting Patterns | [link](https://trello.com/b/qJb8NIYi/knit-away) |  |  |
 | Taylor | MyKitchen | [link](https://trello.com/b/HuKUs9mr/ga-project-2-mykitchen) |  |  |
 | Zach | Daily Stocks | [link](https://trello.com/b/FpjPfHJX/project-2) |  |  |
