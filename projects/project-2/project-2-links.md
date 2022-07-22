@@ -27,7 +27,7 @@
 | Munaaf | Know Your Meme | [link](https://trello.com/b/MaDqqfLm/project-2) |  |  |
 | Nicole | Pharrell Blog with Commenting | [link](https://trello.com/b/syVCrKlw/p2) |  |  |
 | Noli | Job Application Tracker | [link](https://trello.com/b/qltC7ve2/p2) |  |  |
-| Bec | In The Loop (Crocheting) | [link](https://trello.com/b/WLhJuRDH/project-2) |  |  |
+| Bec | In The Loop (Crocheting) | [link](https://trello.com/b/WLhJuRDH/project-2) | [link](https://github.com/becp12/in-the-loop) |  |
 | Russel | raMEN (Anime) | [link](https://trello.com/b/fTMCM0TJ/ramen) | [link](https://github.com/russellasagna/raMEN) |  |
 | Sashank | Create an Aquarium | [link](https://trello.com/b/Vgd1PjKq/p2) |  |  |
 | Sidra | Knit Away | [link](https://trello.com/b/qJb8NIYi/knit-away) | [link](https://github.com/SidrAkhtar/knit-away) |  |
