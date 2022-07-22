@@ -9,16 +9,16 @@
 | Anthony | Meme Archive | [link](https://trello.com/b/sWbU7H2S/project-2) |  |  |
 | Beverly | Oreo Fan Club | [link](https://trello.com/b/uwxkp1hv/p2) | [link](https://github.com/bevcook126/oreo-fan-club) |  |
 | Bri | Purchase Tracker | [link](https://trello.com/b/5UM2SZa5/p2) | [link](https://github.com/heyjudesmom/purchase-tracker) |  |
-| Claude | Sneaker Posts | [link](https://trello.com/b/mEZGVl2i/p2) |  |  |
+| Claude | Sneakers | [link](https://trello.com/b/mEZGVl2i/p2) | [link](https://github.com/claudecabalquinto/sneakers) |  |
 | Ernest | Exercise Diary | [link](https://trello.com/b/KsFjm6Yw/p2-board) |  |  |
-| Ian | Climate Change Posts | [link](https://trello.com/b/ipMYjy0T/p2) |  |  |
+| Ian | Climate Change Blog | [link](https://trello.com/b/ipMYjy0T/p2) | [link](https://github.com/ianchan3/Climate-Change-Blog) |  |
 | Jennifer | Kales From the Crypt | [link](https://trello.com/b/3N2vDlcT/p2-general-assembly) |  |  |
 | POD 2 - Devlin |  |  |  |  |
 | Andrew | Time Keeping | [link](https://trello.com/b/HVaYAYck/p2) |  |  |
-| DK | Car Posts | [link](https://trello.com/b/hFMBpwFM/p2) |  |  |
+| DK | Cars | [link](https://trello.com/b/hFMBpwFM/p2) | [link](https://github.com/Dandd6541/Cars) |  |
 | Iris | LyrAssist | [link](https://trello.com/b/UEt3aON7/project-2-board) |  |  |
 | Jessica | PetPics | [link](https://trello.com/b/ibP68Jgd/project-2) |  |  |
-| Jesus A. | CarCollection | [link](https://trello.com/b/H7f8FhcM/unit-2) |  |  |
+| Jesus A. | Not Real Mechanics Blog | [link](https://trello.com/b/H7f8FhcM/unit-2) | [link](https://github.com/aaguilarvf39/Not-Real-Mechanics-AutoBlog) |  |
 | Jesus S. | Comic Trio | [link](https://trello.com/b/EpUeiWzE/project-2) |  |  |
 | Joba | SoulSearching | [link](https://trello.com/b/eoGTofRV/p2) |  |  |
 | Justin | Crypto Chat | [link](https://trello.com/b/wv4NGkzS/p2-board) |  |  |
