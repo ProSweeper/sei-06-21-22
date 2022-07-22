@@ -22,7 +22,7 @@
 | Jesus S. | Comic Trio | [link](https://trello.com/b/EpUeiWzE/project-2) |  |  |
 | Joba | SoulSearching | [link](https://trello.com/b/eoGTofRV/p2) |  |  |
 | Justin | Crypto Chat | [link](https://trello.com/b/wv4NGkzS/p2-board) |  |  |
-| Lillie | Neighborhood Puzzle Swap | [link](https://trello.com/b/CWxkey7I/project-2) |  |  |
+| Lillie | Puzzle Swap | [link](https://trello.com/b/CWxkey7I/project-2) | [link](https://github.com/lilliesheely/Puzzle-Swap) |  |
 | POD 3 - Mario |  |  |  |  |
 | Munaaf | Know Your Meme | [link](https://trello.com/b/MaDqqfLm/project-2) |  |  |
 | Nicole | Pharrell Blog with Commenting | [link](https://trello.com/b/syVCrKlw/p2) |  |  |
