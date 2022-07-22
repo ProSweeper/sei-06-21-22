@@ -29,7 +29,7 @@
 | Noli | Job Application Tracker | [link](https://trello.com/b/qltC7ve2/p2) | [link](https://github.com/noliw/job-app) |  |
 | Bec | In The Loop (Crocheting) | [link](https://trello.com/b/WLhJuRDH/project-2) | [link](https://github.com/becp12/in-the-loop) |  |
 | Russel | raMEN (Anime) | [link](https://trello.com/b/fTMCM0TJ/ramen) | [link](https://github.com/russellasagna/raMEN) |  |
-| Sashank | Create an Aquarium | [link](https://trello.com/b/Vgd1PjKq/p2) |  |  |
+| Sashank | FishStack | [link](https://trello.com/b/Vgd1PjKq/p2) | [link](https://github.com/sashankrayapudi/fish-stack) |  |
 | Sidra | Knit Away | [link](https://trello.com/b/qJb8NIYi/knit-away) | [link](https://github.com/SidrAkhtar/knit-away) |  |
-| Taylor | MyKitchen | [link](https://trello.com/b/HuKUs9mr/ga-project-2-mykitchen) |  |  |
+| Taylor | MyKitchen | [link](https://trello.com/b/HuKUs9mr/ga-project-2-mykitchen) | [link](https://github.com/tnwatts/my-kitchen) |  |
 | Zach | Daily Stocks | [link](https://trello.com/b/FpjPfHJX/project-2) | [link](https://github.com/zseever/project-2) |  |
