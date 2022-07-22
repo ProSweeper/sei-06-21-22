@@ -5,7 +5,7 @@
 | POD 1 - Steph |  |  |  |  |
 | Adam | Task Tracker | [link](https://trello.com/b/jkzYbntl/project-2) |  |  |
 | Alex | Hiking | [link](https://trello.com/b/2DZgcoYD/p2) |  |  |
-| Tony | Fitness Platform | [link](https://trello.com/b/TiiQjqaC/sei-project-2) |  |  |
+| Tony | Fitness Planner | [link](https://trello.com/b/TiiQjqaC/sei-project-2) | [link](https://github.com/anthonybrockett/fitness-planner) |  |
 | Anthony | Meme Archive | [link](https://trello.com/b/sWbU7H2S/project-2) |  |  |
 | Beverly | Oreo Fan Club | [link](https://trello.com/b/uwxkp1hv/p2) |  |  |
 | Bri | Local Biz Purch Tracker | [link](https://trello.com/b/5UM2SZa5/p2) |  |  |
