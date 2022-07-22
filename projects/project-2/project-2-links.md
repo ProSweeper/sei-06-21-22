@@ -4,10 +4,10 @@
 |---|:---:|:---:|:---:|:---:|
 | POD 1 - Steph |  |  |  |  |
 | Adam | Task Tracker | [link](https://trello.com/b/jkzYbntl/project-2) |  |  |
-| Alex | Hiking | [link](https://trello.com/b/2DZgcoYD/p2) |  |  |
+| Alex | Hiking Cali | [link](https://trello.com/b/2DZgcoYD/p2) | [link](https://github.com/ahaines10/hiking-california) |  |
 | Tony | Fitness Planner | [link](https://trello.com/b/TiiQjqaC/sei-project-2) | [link](https://github.com/anthonybrockett/fitness-planner) |  |
 | Anthony | Meme Archive | [link](https://trello.com/b/sWbU7H2S/project-2) |  |  |
-| Beverly | Oreo Fan Club | [link](https://trello.com/b/uwxkp1hv/p2) |  |  |
+| Beverly | Oreo Fan Club | [link](https://trello.com/b/uwxkp1hv/p2) | [link](https://github.com/bevcook126/oreo-fan-club) |  |
 | Bri | Local Biz Purch Tracker | [link](https://trello.com/b/5UM2SZa5/p2) |  |  |
 | Claude | Sneaker Posts | [link](https://trello.com/b/mEZGVl2i/p2) |  |  |
 | Ernest | Exercise Diary | [link](https://trello.com/b/KsFjm6Yw/p2-board) |  |  |
