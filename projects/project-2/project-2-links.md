@@ -10,7 +10,7 @@
 | Beverly | Oreo Fan Club | [link](https://trello.com/b/uwxkp1hv/p2) | [link](https://github.com/bevcook126/oreo-fan-club) |  |
 | Bri | Purchase Tracker | [link](https://trello.com/b/5UM2SZa5/p2) | [link](https://github.com/heyjudesmom/purchase-tracker) |  |
 | Claude | Sneakers | [link](https://trello.com/b/mEZGVl2i/p2) | [link](https://github.com/claudecabalquinto/sneakers) |  |
-| Ernest | Exercise Diary | [link](https://trello.com/b/KsFjm6Yw/p2-board) |  |  |
+| Ernest | Exercise Diary | [link](https://trello.com/b/KsFjm6Yw/p2-board) | [link](https://github.com/loex345/Exercise-Diary) |  |
 | Ian | Climate Change Blog | [link](https://trello.com/b/ipMYjy0T/p2) | [link](https://github.com/ianchan3/Climate-Change-Blog) |  |
 | Jennifer | Kales From the Crypt | [link](https://trello.com/b/3N2vDlcT/p2-general-assembly) |  |  |
 | POD 2 - Devlin |  |  |  |  |
