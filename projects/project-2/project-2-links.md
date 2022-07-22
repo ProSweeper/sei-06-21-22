@@ -14,12 +14,12 @@
 | Ian | Climate Change Blog | [link](https://trello.com/b/ipMYjy0T/p2) | [link](https://github.com/ianchan3/Climate-Change-Blog) |  |
 | Jennifer | Kales From the Crypt | [link](https://trello.com/b/3N2vDlcT/p2-general-assembly) |  |  |
 | POD 2 - Devlin |  |  |  |  |
-| Andrew | Time Keeping | [link](https://trello.com/b/HVaYAYck/p2) |  |  |
+| Andrew | Plan-It | [link](https://trello.com/b/HVaYAYck/p2) | [link](https://github.com/Andrewbui389/Plan-It) |  |
 | DK | Cars | [link](https://trello.com/b/hFMBpwFM/p2) | [link](https://github.com/Dandd6541/Cars) |  |
 | Iris | LyrAssist | [link](https://trello.com/b/UEt3aON7/project-2-board) |  |  |
 | Jessica | PetPics | [link](https://trello.com/b/ibP68Jgd/project-2) |  |  |
 | Jesus A. | Not Real Mechanics Blog | [link](https://trello.com/b/H7f8FhcM/unit-2) | [link](https://github.com/aaguilarvf39/Not-Real-Mechanics-AutoBlog) |  |
-| Jesus S. | Comic Trio | [link](https://trello.com/b/EpUeiWzE/project-2) |  |  |
+| Jesus S. | Manga | [link](https://trello.com/b/EpUeiWzE/project-2) | [link](https://github.com/jesusi3/manga-project2) |  |
 | Joba | SoulSearching | [link](https://trello.com/b/eoGTofRV/p2) |  |  |
 | Justin | Crypto Chat | [link](https://trello.com/b/wv4NGkzS/p2-board) |  |  |
 | Lillie | Puzzle Swap | [link](https://trello.com/b/CWxkey7I/project-2) | [link](https://github.com/lilliesheely/Puzzle-Swap) |  |
@@ -32,4 +32,4 @@
 | Sashank | Create an Aquarium | [link](https://trello.com/b/Vgd1PjKq/p2) |  |  |
 | Sidra | Knit Away | [link](https://trello.com/b/qJb8NIYi/knit-away) | [link](https://github.com/SidrAkhtar/knit-away) |  |
 | Taylor | MyKitchen | [link](https://trello.com/b/HuKUs9mr/ga-project-2-mykitchen) |  |  |
-| Zach | Daily Stocks | [link](https://trello.com/b/FpjPfHJX/project-2) |  |  |
+| Zach | Daily Stocks | [link](https://trello.com/b/FpjPfHJX/project-2) | [link](https://github.com/zseever/project-2) |  |
