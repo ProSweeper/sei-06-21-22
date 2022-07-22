@@ -51,4 +51,5 @@
 | W05D3 | [JS Promises](https://generalassembly.zoom.us/rec/share/CxqQC4KQtdE6GsQyO1zzh66gVDuiLjvk9-4ulsXLOBQOnlNViQAETS0quK145DeP.uMVZtyJW5zS9dPrF?startTime=1658332804000) |
 | W05D4 | [Routing Quiz / Solution Review](https://generalassembly.zoom.us/rec/share/sTGMSZGdFWb9rmzu5ony934fH_7xHJOQzdgBlxKaP0xxZaY7togzZ7wJtKz_NzR6.3MzSot-v_hwa6rEI?startTime=1658346557000) |
 | W05D3 | [Review of the "Guides"](https://generalassembly.zoom.us/rec/share/DvgFFWyO7dJwmWLjFiPb4XH3SKW-GLz_davIK-Cb80frndxs2njq9Aezi7h2sETu.ZdcXTiTZ1YKuFPaw?startTime=1658419206000) |
-| W05D4 | [COAuth Authentication - Part 1](https://generalassembly.zoom.us/rec/share/DvgFFWyO7dJwmWLjFiPb4XH3SKW-GLz_davIK-Cb80frndxs2njq9Aezi7h2sETu.ZdcXTiTZ1YKuFPaw?startTime=1658420294000) |
+| W05D4 | [OAuth Authentication - Part 1](https://generalassembly.zoom.us/rec/share/DvgFFWyO7dJwmWLjFiPb4XH3SKW-GLz_davIK-Cb80frndxs2njq9Aezi7h2sETu.ZdcXTiTZ1YKuFPaw?startTime=1658420294000) |
+| W05D4 | [OAuth Authentication - Part 2](https://generalassembly.zoom.us/rec/share/ep6yQA43rP5LOBsFsfERX03NcV5xtAQffqTDSxFjY6P1UuRwW1AUfK_sPv9sH63c.h_tKpoSS_WJh4_34?startTime=1658432704000) |
