@@ -25,7 +25,7 @@
 | Lillie | Puzzle Swap | [link](https://trello.com/b/CWxkey7I/project-2) | [link](https://github.com/lilliesheely/Puzzle-Swap) |  |
 | POD 3 - Mario |  |  |  |  |
 | Munaaf | Know Your Meme | [link](https://trello.com/b/MaDqqfLm/project-2) |  |  |
-| Nicole | Pharrell Blog with Commenting | [link](https://trello.com/b/syVCrKlw/p2) |  |  |
+| Nicole | Producer Aisles | [link](https://trello.com/b/syVCrKlw/p2) | [link](https://github.com/coleochieng/producer-aisles) |  |
 | Noli | Job Application Tracker | [link](https://trello.com/b/qltC7ve2/p2) |  |  |
 | Bec | In The Loop (Crocheting) | [link](https://trello.com/b/WLhJuRDH/project-2) | [link](https://github.com/becp12/in-the-loop) |  |
 | Russel | raMEN (Anime) | [link](https://trello.com/b/fTMCM0TJ/ramen) | [link](https://github.com/russellasagna/raMEN) |  |
