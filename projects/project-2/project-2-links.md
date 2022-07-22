@@ -30,6 +30,6 @@
 | Bec | In The Loop (Crocheting) | [link](https://trello.com/b/WLhJuRDH/project-2) |  |  |
 | Russel | raMEN (Anime) | [link](https://trello.com/b/fTMCM0TJ/ramen) | [link](https://github.com/russellasagna/raMEN) |  |
 | Sashank | Create an Aquarium | [link](https://trello.com/b/Vgd1PjKq/p2) |  |  |
-| Sidra | Knitting Patterns | [link](https://trello.com/b/qJb8NIYi/knit-away) |  |  |
+| Sidra | Knit Away | [link](https://trello.com/b/qJb8NIYi/knit-away) | [link](https://github.com/SidrAkhtar/knit-away) |  |
 | Taylor | MyKitchen | [link](https://trello.com/b/HuKUs9mr/ga-project-2-mykitchen) |  |  |
 | Zach | Daily Stocks | [link](https://trello.com/b/FpjPfHJX/project-2) |  |  |
