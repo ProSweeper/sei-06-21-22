@@ -19,7 +19,7 @@
 | Iris | lyrAssist | [link](https://trello.com/b/UEt3aON7/project-2-board) | [link](https://github.com/iris-personal/lyrAssist) | [link](https://lyr-a-ssist.herokuapp.com/) |
 | Jessica | TopDog | [link](https://trello.com/b/ibP68Jgd/project-2) | [link](https://github.com/jessmucklow/TopDog) |  |
 | Jesus A. | Not Real Mechanics Blog | [link](https://trello.com/b/H7f8FhcM/unit-2) | [link](https://github.com/aaguilarvf39/Not-Real-Mechanics-AutoBlog) |  |
-| Jesus S. | Comic Trio | [link](https://trello.com/b/EpUeiWzE/project-2) | [link](https://github.com/jesusi3/Comic-Trio) |  |
+| Jesus S. | Comic Trio | [link](https://trello.com/b/EpUeiWzE/project-2) | [link](https://github.com/jesusi3/Comic-Trio) | [link](https://comic-trio.herokuapp.com/) |
 | Joba | SoulSearchin | [link](https://trello.com/b/eoGTofRV/p2) | [link](https://github.com/jobaa11/SoulSearchin) | [link](https://soul-search.herokuapp.com/) |
 | Justin | Crypto Chat | [link](https://trello.com/b/wv4NGkzS/p2-board) | [link](https://github.com/jmendoza13/crypto-chat) |  |
 | Lillie | Puzzle Swap | [link](https://trello.com/b/CWxkey7I/project-2) | [link](https://github.com/lilliesheely/Puzzle-Swap) |  |
