@@ -79,6 +79,8 @@ Before you can deploy a new app, you must first create the app and using the CLI
 $ heroku create <optional preferred name of app>
 ```
 
+> IMPORTANT: the name of your app must be in lowercase.  However, you can use hyphens to separate "words".
+
 You definitely want to supply a preferred name of your app because it will be used to form your app's public URL.  If you don't specify the `<optional preferred name of app>` argument, Heroku will assign a randomly generated app name automatically.
 
 Keep in mind that there are thousands upon thousands of apps deployed on Heroku, so you may have to get creative when giving your app a name because it has to be unique to Heroku. Using hyphens is one way to help get the app name/URL you want.
