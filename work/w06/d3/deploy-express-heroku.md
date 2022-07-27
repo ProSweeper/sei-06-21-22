@@ -50,6 +50,12 @@ The Heroku Toolbelt CLI makes it easy to create and manage apps in your Heroku a
 
 Install the toolbelt anywhere in terminal with this command:  `npm i -g heroku`
 
+Verify that it was installed by running:  `heroku -v`
+
+You should see some versioning info, however, don't despair if you received an error because the Heroku Toolbelt is also runnable using npx by typing `npx heroku <some command>` in place of `heroku <some command>`.
+
+For example, you can check the version by running:  `npx heroku -v`
+
 ### Log In
 
 Once the Heroku CLI is installed, let's get logged in:
