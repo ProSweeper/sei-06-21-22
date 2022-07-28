@@ -3,8 +3,8 @@
 | Student | Project Name | Planning (Trello) | GitHub | Hosted Site |
 |---|:---:|:---:|:---:|:---:|
 | POD 1 - Steph |  |  |  |  |
-| Adam | Power List | [link](https://trello.com/b/jkzYbntl/project-2) | [link](https://github.com/adamascencio/The-Power-List) |  |
-| Alex | Hiking Cali | [link](https://trello.com/b/2DZgcoYD/p2) | [link](https://github.com/ahaines10/hiking-california) |  |
+| Adam | Power List | [link](https://trello.com/b/jkzYbntl/project-2) | [link](https://github.com/adamascencio/The-Power-List) | [link](https://the-power-list.herokuapp.com/) |
+| Alex | Hiking Cali | [link](https://trello.com/b/2DZgcoYD/p2) | [link](https://github.com/ahaines10/hiking-california) | [link](https://hiking-california-1487.herokuapp.com/) |
 | Tony | Fitness Planner | [link](https://trello.com/b/TiiQjqaC/sei-project-2) | [link](https://github.com/anthonybrockett/fitness-planner) | [link](https://fitness-planner-621.herokuapp.com/) |
 | Anthony | Meme Archive | [link](https://trello.com/b/sWbU7H2S/project-2) | [link](https://github.com/abpandanguyen/meme-archive) | [link](https://the-meme-archive.herokuapp.com/) |
 | Beverly | Oreo Fan Club | [link](https://trello.com/b/uwxkp1hv/p2) | [link](https://github.com/bevcook126/oreo-fan-club) | [link](https://oreo-fan-club.herokuapp.com/) |
@@ -12,7 +12,7 @@
 | Claude | Sneakers | [link](https://trello.com/b/mEZGVl2i/p2) | [link](https://github.com/claudecabalquinto/sneakers) | [link](https://sneakers-cc.herokuapp.com/) |
 | Ernest | Exercise Diary | [link](https://trello.com/b/KsFjm6Yw/p2-board) | [link](https://github.com/loex345/Exercise-Diary) | [link](https://exercise-diary-01.herokuapp.com/) |
 | Ian | Climate Change Blog | [link](https://trello.com/b/ipMYjy0T/p2) | [link](https://github.com/ianchan3/Climate-Change-Blog) | [link](https://climate-change-blogproject.herokuapp.com/) |
-| Jennifer | Kales From the Crypt | [link](https://trello.com/b/3N2vDlcT/p2-general-assembly) | [link](https://github.com/jenstiza/Kales-From-The-Crypt) |  |
+| Jennifer | Kales From the Crypt | [link](https://trello.com/b/3N2vDlcT/p2-general-assembly) | [link](https://github.com/jenstiza/Kales-From-The-Crypt) | [link](https://kales-from-the-crypt.herokuapp.com/) |
 | POD 2 - Devlin |  |  |  |  |
 | Andrew | Plan-It | [link](https://trello.com/b/HVaYAYck/p2) | [link](https://github.com/Andrewbui389/Plan-It) |  |
 | DK | Cars | [link](https://trello.com/b/hFMBpwFM/p2) | [link](https://github.com/Dandd6541/Cars) | [link](https://express-cars-621.herokuapp.com/) |
