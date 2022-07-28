@@ -14,7 +14,7 @@
 | Ian | Climate Change Blog | [link](https://trello.com/b/ipMYjy0T/p2) | [link](https://github.com/ianchan3/Climate-Change-Blog) | [link](https://climate-change-blogproject.herokuapp.com/) |
 | Jennifer | Kales From the Crypt | [link](https://trello.com/b/3N2vDlcT/p2-general-assembly) | [link](https://github.com/jenstiza/Kales-From-The-Crypt) | [link](https://kales-from-the-crypt.herokuapp.com/) |
 | POD 2 - Devlin |  |  |  |  |
-| Andrew | Plan-It | [link](https://trello.com/b/HVaYAYck/p2) | [link](https://github.com/Andrewbui389/Plan-It) |  |
+| Andrew | Plan-It | [link](https://trello.com/b/HVaYAYck/p2) | [link](https://github.com/Andrewbui389/Plan-It) | [link](https://fado-management.herokuapp.com/) |
 | DK | Cars | [link](https://trello.com/b/hFMBpwFM/p2) | [link](https://github.com/Dandd6541/Cars) | [link](https://express-cars-621.herokuapp.com/) |
 | Iris | lyrAssist | [link](https://trello.com/b/UEt3aON7/project-2-board) | [link](https://github.com/iris-personal/lyrAssist) | [link](https://lyr-a-ssist.herokuapp.com/) |
 | Jessica | TopDog | [link](https://trello.com/b/ibP68Jgd/project-2) | [link](https://github.com/jessmucklow/TopDog) |  |
