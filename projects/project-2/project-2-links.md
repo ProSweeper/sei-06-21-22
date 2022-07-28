@@ -22,7 +22,7 @@
 | Jesus S. | Comic Trio | [link](https://trello.com/b/EpUeiWzE/project-2) | [link](https://github.com/jesusi3/Comic-Trio) | [link](https://comic-trio.herokuapp.com/) |
 | Joba | SoulSearchin | [link](https://trello.com/b/eoGTofRV/p2) | [link](https://github.com/jobaa11/SoulSearchin) | [link](https://soul-search.herokuapp.com/) |
 | Justin | Crypto Chat | [link](https://trello.com/b/wv4NGkzS/p2-board) | [link](https://github.com/jmendoza13/crypto-chat) |  |
-| Lillie | Puzzle Swap | [link](https://trello.com/b/CWxkey7I/project-2) | [link](https://github.com/lilliesheely/Puzzle-Swap) |  |
+| Lillie | Puzzle Swap | [link](https://trello.com/b/CWxkey7I/project-2) | [link](https://github.com/lilliesheely/Puzzle-Swap) | [link](https://neighborhood-puzzle-swap.herokuapp.com/) |
 | POD 3 - Mario |  |  |  |  |
 | Munaaf | Gif Story | [link](https://trello.com/b/MaDqqfLm/project-2) | [link](https://github.com/mkbozai/gifstory) |  |
 | Nicole | Producer Aisles | [link](https://trello.com/b/syVCrKlw/p2) | [link](https://github.com/coleochieng/producer-aisles) |  |
