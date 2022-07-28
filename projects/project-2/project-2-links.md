@@ -24,7 +24,7 @@
 | Justin | Crypto Chat | [link](https://trello.com/b/wv4NGkzS/p2-board) | [link](https://github.com/jmendoza13/crypto-chat) |  |
 | Lillie | Puzzle Swap | [link](https://trello.com/b/CWxkey7I/project-2) | [link](https://github.com/lilliesheely/Puzzle-Swap) | [link](https://neighborhood-puzzle-swap.herokuapp.com/) |
 | POD 3 - Mario |  |  |  |  |
-| Munaaf | Gif Story | [link](https://trello.com/b/MaDqqfLm/project-2) | [link](https://github.com/mkbozai/gifstory) |  |
+| Munaaf | Gif Story | [link](https://trello.com/b/MaDqqfLm/project-2) | [link](https://github.com/mkbozai/gifstory) | [link](https://gifstory.herokuapp.com/) |
 | Nicole | Producer Aisles | [link](https://trello.com/b/syVCrKlw/p2) | [link](https://github.com/coleochieng/producer-aisles) |  |
 | Noli | Job Application Tracker | [link](https://trello.com/b/qltC7ve2/p2) | [link](https://github.com/noliw/job-app) | [link](https://job-app-tracker-byn.herokuapp.com/) |
 | Bec | In The Loop (Crocheting) | [link](https://trello.com/b/WLhJuRDH/project-2) | [link](https://github.com/becp12/in-the-loop) | [link](https://in-the-loop-crochet.herokuapp.com/) |
