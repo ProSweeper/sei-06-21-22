@@ -17,11 +17,11 @@
 | Andrew | Plan-It | [link](https://trello.com/b/HVaYAYck/p2) | [link](https://github.com/Andrewbui389/Plan-It) | [link](https://fado-management.herokuapp.com/) |
 | DK | Cars | [link](https://trello.com/b/hFMBpwFM/p2) | [link](https://github.com/Dandd6541/Cars) | [link](https://express-cars-621.herokuapp.com/) |
 | Iris | lyrAssist | [link](https://trello.com/b/UEt3aON7/project-2-board) | [link](https://github.com/iris-personal/lyrAssist) | [link](https://lyr-a-ssist.herokuapp.com/) |
-| Jessica | TopDog | [link](https://trello.com/b/ibP68Jgd/project-2) | [link](https://github.com/jessmucklow/TopDog) |  |
+| Jessica | TopDog | [link](https://trello.com/b/ibP68Jgd/project-2) | [link](https://github.com/jessmucklow/TopDog) | [link](https://topdog-jc.herokuapp.com/) |
 | Jesus A. | Not Real Mechanics Blog | [link](https://trello.com/b/H7f8FhcM/unit-2) | [link](https://github.com/aaguilarvf39/Not-Real-Mechanics-AutoBlog) | [link](https://not-real-mechanics-autoblog.herokuapp.com/) |
 | Jesus S. | Comic Trio | [link](https://trello.com/b/EpUeiWzE/project-2) | [link](https://github.com/jesusi3/Comic-Trio) | [link](https://comic-trio.herokuapp.com/) |
 | Joba | SoulSearchin | [link](https://trello.com/b/eoGTofRV/p2) | [link](https://github.com/jobaa11/SoulSearchin) | [link](https://soul-search.herokuapp.com/) |
-| Justin | Crypto Chat | [link](https://trello.com/b/wv4NGkzS/p2-board) | [link](https://github.com/jmendoza13/crypto-chat) |  |
+| Justin | Crypto Chat | [link](https://trello.com/b/wv4NGkzS/p2-board) | [link](https://github.com/jmendoza13/crypto-chat) | [link](https://crypto-chat-621.herokuapp.com/) |
 | Lillie | Puzzle Swap | [link](https://trello.com/b/CWxkey7I/project-2) | [link](https://github.com/lilliesheely/Puzzle-Swap) | [link](https://neighborhood-puzzle-swap.herokuapp.com/) |
 | POD 3 - Mario |  |  |  |  |
 | Munaaf | Gif Story | [link](https://trello.com/b/MaDqqfLm/project-2) | [link](https://github.com/mkbozai/gifstory) | [link](https://gifstory.herokuapp.com/) |

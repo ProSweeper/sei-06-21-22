@@ -52,11 +52,9 @@ You will have a maximum of 10 minutes to present your project following these gu
 
 	☐ Launch the deployed app by clicking the link in the README.
 	
-	☐ Sign up a new user, then immediately log out.
+	☐ Log out and back in to demonstrate that OAuth is working.
 	
-	☐ Log in with your preferred user and demonstrate the features of the app.
-	
-	☐ Be sure to demo full-CRUD data operations.
+	☐ Demonstrate the features of the app, including full-CRUD data operations.
 	
 3. **Show/discuss your code:**
 
@@ -118,7 +116,7 @@ You will have a maximum of 10 minutes to present your project following these gu
   
   > Note: Don't underestimate the value of a well crafted `README.md`. The `README.md` introduces your project to prospective employers and forms their first impression of your work!
 
-☐ **Frequent commits dating back to the very beginning of the project**. Commit messages should be in the present tense, e.g., "Style landing page" instead of "Styled landing page". **Do not "start over" with a new repo.**
+☐ **Daily commits (the more the better) dating back to the very beginning of the project**. Commit messages should be in the present tense, e.g., "Style landing page" instead of "Styled landing page". **Do not "start over" with a new repo.**
 
 ---
 
