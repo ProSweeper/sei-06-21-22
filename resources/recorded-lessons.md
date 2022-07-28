@@ -56,3 +56,4 @@
 | W05D4 | [OAuth Authentication - Part 2](https://generalassembly.zoom.us/rec/share/ep6yQA43rP5LOBsFsfERX03NcV5xtAQffqTDSxFjY6P1UuRwW1AUfK_sPv9sH63c.h_tKpoSS_WJh4_34?startTime=1658432704000) |
 | W05D5 | [CS - Recursion](https://generalassembly.zoom.us/rec/share/UkQ2p5F43sE6WPxWKk_iGe8FYGPHXjqXvyhFfQf_DKt0PtSPAr0quPSqeFeH5Wf0.fRiIMpJ76FIoRVhv?startTime=1658505605000) |
 | W06D3 | [Deploy a Node/Express App to Heroku](https://generalassembly.zoom.us/rec/share/zH_7ubrXVPR0o0vkbvCakUY9_Q87wg08Bay1EiBm6tP5IFdZbceUGAm7YRMx9_uH.CPfsoqV1RSIPreFf?startTime=1658951108000) |
+| W06D4 | [Unit 2 Assessment Prep](https://generalassembly.zoom.us/rec/share/VqFu1iRrbx0C72yjVmAkkOzfin6Rq1YLC2gxjzRCv9mpQfjFif6oQnomWFLQ-LmC.WuXaZ1mYUWKqJSZA?startTime=1659037515000) |
