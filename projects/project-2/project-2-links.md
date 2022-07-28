@@ -32,4 +32,4 @@
 | Sashank | FishStack | [link](https://trello.com/b/Vgd1PjKq/p2) | [link](https://github.com/sashankrayapudi/fish-stack) | [link](https://fish-stack.herokuapp.com/) |
 | Sidra | Knit Away | [link](https://trello.com/b/qJb8NIYi/knit-away) | [link](https://github.com/SidrAkhtar/knit-away) | [link](https://knit-away.herokuapp.com/) |
 | Taylor | MyKitchen | [link](https://trello.com/b/HuKUs9mr/ga-project-2-mykitchen) | [link](https://github.com/tnwatts/my-kitchen) | [link](https://my-kitchen-helper-aid.herokuapp.com/) |
-| Zach | Daily Stocks | [link](https://trello.com/b/FpjPfHJX/project-2) | [link](https://github.com/zseever/project-2) |  |
+| Zach | Daily Stocks | [link](https://trello.com/b/FpjPfHJX/project-2) | [link](https://github.com/zseever/project-2) | [link](https://project-2-stocks.herokuapp.com/) |
