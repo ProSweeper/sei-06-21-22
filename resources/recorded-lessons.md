@@ -60,3 +60,5 @@
 | W07D1 | [Intro to Relational Databases & SQL](https://generalassembly.zoom.us/rec/share/jBAMJZvJCpVNOo5shDtJ2HVpGwrYWYSEgSrwKV6tOrcYk-XtPDljf25XAAXwr4DJ.brfCZyU_yVoWhKiw?startTime=1659369610000) |
 | W07D1 | [Relational Data Design & Modeling](https://generalassembly.zoom.us/rec/share/jBAMJZvJCpVNOo5shDtJ2HVpGwrYWYSEgSrwKV6tOrcYk-XtPDljf25XAAXwr4DJ.brfCZyU_yVoWhKiw?startTime=1659383116000) |
 | W07D1 | [CS - Divide and Conquer Sorts](https://generalassembly.zoom.us/rec/share/jBAMJZvJCpVNOo5shDtJ2HVpGwrYWYSEgSrwKV6tOrcYk-XtPDljf25XAAXwr4DJ.brfCZyU_yVoWhKiw?startTime=1659388208000) |
+| W07D2 | [Intro to Python](https://generalassembly.zoom.us/rec/share/HprepRwAJr9uXVRAs198r38vnd0Ey7CJY1c4CJuHfzjhk1wasTJ55WxQYxPnsNg-.h9aGzxCS6n7Y9a4P?startTime=1659456007000) |
+| W07D2 | [Control Flow in Python](https://generalassembly.zoom.us/rec/share/HprepRwAJr9uXVRAs198r38vnd0Ey7CJY1c4CJuHfzjhk1wasTJ55WxQYxPnsNg-.h9aGzxCS6n7Y9a4P?startTime=1659460508000) |
