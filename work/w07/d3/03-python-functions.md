@@ -216,12 +216,12 @@ console.log( sum(1, 5, 10) );  // -> 16
 Using the `*` ("star") specifier in a parameter list allows us to pass in a varying number of **positional** arguments into a function:
 
 ```python
-def f(*args):
+def fn(*args):
   print( type(args) )
   for arg in args:
     print(arg)
 
-f(1, 2, 'SEI')
+fn(1, 2, 'SEI')
 ''' Output:
 <class 'tuple'>
 1
