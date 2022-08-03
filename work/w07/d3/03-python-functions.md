@@ -6,7 +6,7 @@
 
 | Students Will Be Able To: |
 |---|
-| Contrast Python and JavaScript functions |
+| Compare Python to JavaScript functions |
 | Define functions in Python |
 | Invoke functions in Python |
 | Use `*args` and `**kwargs` parameters |
