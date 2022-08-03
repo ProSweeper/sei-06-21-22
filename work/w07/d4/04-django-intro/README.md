@@ -178,7 +178,7 @@ We'll get started working on the tutorial together.  However, after creating the
 
 Rest assured that we'll be diving deeper into the Django topics touched upon during the tutorial, and more, like learning how to upload images to Amazon S3!
 
-Let's get started by clicking [here](https://docs.djangoproject.com/en/4.0/intro/tutorial01/)!
+Let's get started by clicking [here](https://docs.djangoproject.com/en/4.1/intro/tutorial01/)!
 
 ## References
 
