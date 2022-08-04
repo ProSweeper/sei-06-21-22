@@ -133,6 +133,8 @@ print(spot.name, spot.age) # -> Spot 8
 spot.bark() # -> Spot says woof!
 ```
 
+> Key Point:  Unlike Python dictionary objects that use **square bracket notation** to access/set its items' values, objects instantiated by our own Python classes are more like JS objects in that they use **dot notation** instead.
+
 Let's try out the default parameter for a new dog's `age`:
 
 ```python
