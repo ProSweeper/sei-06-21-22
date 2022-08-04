@@ -34,11 +34,12 @@ Working in a team is going to require more upfront planning to ensure the team i
 
 #### Pitch Deck - Presented By Your Team on Thursday, 08/11/2022, 3:30PM
 
-☐ **Pitch your project** to the class with a [pitch deck](https://pitchdeck.improvepresentation.com/what-is-a-pitch-deck) that includes:
+☐ **Pitch your project** to the class with a [pitch deck](https://web.archive.org/web/20220201093530/https://pitchdeck.improvepresentation.com/what-is-a-pitch-deck) that includes:
 
 - The application name.
 - Your team members and their roles.
 - The problem you are going to solve with your app.
+- In the 12 "slide" list shown in the above link, consider "slides" 7 thru 12 as **optional**
 - Check out previous decks: [Tripio](https://docs.google.com/presentation/d/1gvOypLc4VjKqJzdAW68iwh28uGDSH4Sp1KnA5grDo2g/edit#slide=id.p), [Pantry](https://docs.google.com/presentation/d/1WvHoN5MNaRembgcoog5p0GtivVCOZSzvfPyeevzy08g/edit), [ArtWorld](https://docs.google.com/presentation/d/1yGy2Mh3n6IhPxFu4XKnnMtPPi4OGFPpf-Z_TMYw6wQY/edit#slide=id.g7ba109823e_2_7)
 
 #### Trello Board - Due Thursday, 08/11/2022, 4:00PM
