@@ -62,3 +62,6 @@
 | W07D1 | [CS - Divide and Conquer Sorts](https://generalassembly.zoom.us/rec/share/jBAMJZvJCpVNOo5shDtJ2HVpGwrYWYSEgSrwKV6tOrcYk-XtPDljf25XAAXwr4DJ.brfCZyU_yVoWhKiw?startTime=1659388208000) |
 | W07D2 | [Intro to Python](https://generalassembly.zoom.us/rec/share/HprepRwAJr9uXVRAs198r38vnd0Ey7CJY1c4CJuHfzjhk1wasTJ55WxQYxPnsNg-.h9aGzxCS6n7Y9a4P?startTime=1659456007000) |
 | W07D2 | [Control Flow in Python](https://generalassembly.zoom.us/rec/share/HprepRwAJr9uXVRAs198r38vnd0Ey7CJY1c4CJuHfzjhk1wasTJ55WxQYxPnsNg-.h9aGzxCS6n7Y9a4P?startTime=1659460508000) |
+| W07D3 | [Python Containers](https://generalassembly.zoom.us/rec/share/AcqH1r_TMQ8dIsaVgu4ZtXijFgzMs37uHrzAua6zuHb0BHfHQD9ZgbtJFgxDmL-P.l7iPSvhm4JwNV4QT?startTime=1659542449000) |
+| W07D3 | [Python Functions](https://generalassembly.zoom.us/rec/share/AcqH1r_TMQ8dIsaVgu4ZtXijFgzMs37uHrzAua6zuHb0BHfHQD9ZgbtJFgxDmL-P.l7iPSvhm4JwNV4QT?startTime=1659555906000) |
+
