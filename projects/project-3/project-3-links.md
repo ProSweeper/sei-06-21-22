@@ -3,14 +3,14 @@
 | Team | Project Name | Pitch Deck | Trello | GitHub | Hosted Site |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Stephanie (Pod 1) |  |  |  |  |  |
-| Team 1:<br>Bec<br>Ernest<br>Tony |  |  |  |  |  |
-| Team 2:<br>Adam<br>Ian<br>Munaaf |  |  |  |  |  |
-| Team 3:<br>Claude<br>Iris<br>Lillie |  |  |  |  |  |
+| <strong>Team 1</strong>:<br>Bec<br>Ernest<br>Tony |  |  |  |  |  |
+| <strong>Team 2</strong>:<br>Adam<br>Ian<br>Munaaf |  |  |  |  |  |
+| <strong>Team 3</strong>:<br>Claude<br>Iris<br>Lillie |  |  |  |  |  |
 | Devlin (Pod 2) |  |  |  |  |  |
-| Team 4:<br>Alex<br>Andrew<br>Russel |  |  |  |  |  |
-| Team 5:<br>Anthony<br>DK<br>Justin |  |  |  |  |  |
-| Team 6:<br>Jennifer<br>Jesus S.<br>Joba |  |  |  |  |  |
+| <strong>Team 4</strong>:<br>Alex<br>Andrew<br>Russel |  |  |  |  |  |
+| <strong>Team 5</strong>:<br>Anthony<br>DK<br>Justin |  |  |  |  |  |
+| <strong>Team 6</strong>:<br>Jennifer<br>Jesus S.<br>Joba |  |  |  |  |  |
 | Mario (Pod 3) |  |  |  |  |  |
-| Team 7:<br>Bri<br>Jessica<br>Jesus S. |  |  |  |  |  |
-| Team 8:<br>Noli<br>Sashank<br>Tay |  |  |  |  |  |
-| Team 9:<br>Beverly<br>Sidra<br>Zachary |  |  |  |  |  |
+| <strong>Team 7</strong>:<br>Bri<br>Jessica<br>Jesus S. |  |  |  |  |  |
+| <strong>Team 8</strong>:<br>Noli<br>Sashank<br>Tay |  |  |  |  |  |
+| <strong>Team 9</strong>:<br>Beverly<br>Sidra<br>Zachary |  |  |  |  |  |
