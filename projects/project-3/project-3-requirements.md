@@ -34,6 +34,8 @@ Working in a team is going to require more upfront planning to ensure the team i
 
 #### Pitch Deck - Presented By Your Team on Thursday, 08/11/2022, 3:30PM
 
+<img src="https://i.imgur.com/NvA1B6Q.png">
+
 ☐ **Pitch your project** to the class with a [pitch deck](https://web.archive.org/web/20220201093530/https://pitchdeck.improvepresentation.com/what-is-a-pitch-deck) that includes:
 
 - The application name.
