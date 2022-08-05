@@ -158,6 +158,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'catcollector',
+        'HOST': 'localhost',
     }
 }
 ```
