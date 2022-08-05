@@ -64,4 +64,7 @@
 | W07D2 | [Control Flow in Python](https://generalassembly.zoom.us/rec/share/HprepRwAJr9uXVRAs198r38vnd0Ey7CJY1c4CJuHfzjhk1wasTJ55WxQYxPnsNg-.h9aGzxCS6n7Y9a4P?startTime=1659460508000) |
 | W07D3 | [Python Containers](https://generalassembly.zoom.us/rec/share/AcqH1r_TMQ8dIsaVgu4ZtXijFgzMs37uHrzAua6zuHb0BHfHQD9ZgbtJFgxDmL-P.l7iPSvhm4JwNV4QT?startTime=1659542449000) |
 | W07D3 | [Python Functions](https://generalassembly.zoom.us/rec/share/AcqH1r_TMQ8dIsaVgu4ZtXijFgzMs37uHrzAua6zuHb0BHfHQD9ZgbtJFgxDmL-P.l7iPSvhm4JwNV4QT?startTime=1659555906000) |
+| W07D4 | [Python Classes](https://generalassembly.zoom.us/rec/share/v028TODj1ztpbIcguUfWCYcCO0IPWzMI18eR8Emy2Db95lw6tNueOU2FlL3Lh1E.hw_-uETTxGPXkO3G?startTime=1659628808000) |
+| W07D4 | [Git Team Workflow](https://generalassembly.zoom.us/rec/share/v028TODj1ztpbIcguUfWCYcCO0IPWzMI18eR8Emy2Db95lw6tNueOU2FlL3Lh1E.hw_-uETTxGPXkO3G?startTime=1659646047000) |
+| W07D4 | [Brief Intro to Django (and db troubleshooting)](https://generalassembly.zoom.us/rec/share/v028TODj1ztpbIcguUfWCYcCO0IPWzMI18eR8Emy2Db95lw6tNueOU2FlL3Lh1E.hw_-uETTxGPXkO3G?startTime=1659649506000) |
 
