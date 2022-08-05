@@ -17,7 +17,7 @@
 
 ## Learning Django Game Plan
 
-All lessons this week are 100% Django!
+We've got a great set of Django lessons coming your way!
 
 The lessons will add features, piece-by-piece, to a modern full-stack reference app named **CatCollector**.
 
@@ -25,7 +25,7 @@ Let me show you the final version we're going to build this week.
 
 Then, after the lessons, you will use lab time to repeat what you saw in the lesson by building your own app named anything you want, say - **FinchCollector**.
 
-Here's an overview of the high-level topics we'll be covering this week, in order:
+Here's an overview of the high-level topics we'll be covering, in order:
 
 1. Django URLs, Views, and Templates
 2. Data Models and Migrations
