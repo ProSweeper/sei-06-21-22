@@ -158,7 +158,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'catcollector',
-        'HOST': 'localhost',
+        # 'HOST': 'localhost',  <-- some computers might need this line
     }
 }
 ```
@@ -390,13 +390,13 @@ Let's start with a simple template for the About page:
 
 Browsing to `localhost:8000/about` will now render the new **about.html** template!
 
-So far, so good, but we haven't yet used any of DTL's power to dynamically render data, perform control flow, etc.
+So far, so good, but we haven't yet used any of DTL's power to dynamically render data, etc.
 
 But before we go any further and break the DRY principle by repeating the boilerplate in future templates, let's see how we can use what Django calls **template inheritance**.
 
 ## Template Inheritance (Partials)
 
-Django has a [template inheritance](https://docs.djangoproject.com/en/4.0/ref/templates/language/#template-inheritance) feature built-in.
+Django has a [template inheritance](https://docs.djangoproject.com/en/4.1/ref/templates/language/#template-inheritance) feature built-in.
 
 Template inheritance is like using partials in EJS with Express, except they're more flexible.
 
@@ -462,7 +462,7 @@ However, the most important part of the boilerplate in regards to template inher
 
 Hey, that's our first look at DTL **template tags**, `block` & `endblock`, enclosed within the template tag delimiters `{% %}`.
 
-Django [template tags](https://docs.djangoproject.com/en/4.0/ref/templates/builtins/#ref-templates-builtins-tags) control logic within a template.  Depending upon the tag, they may, or may not, result in content being emitted in the page. 
+Django [template tags](https://docs.djangoproject.com/en/4.1/ref/templates/builtins/#ref-templates-builtins-tags) control logic within a template.  Depending upon the tag, they may, or may not, result in content being emitted in the page. 
 
 Whenever another template **extends** this **base.html**, that other template's `{% block content %}` will replace the same block in **base.html**.
 
@@ -489,7 +489,7 @@ If we want Cat Collector to look better, we're going to have to be able to defin
 
 Django projects are pre-configured with a `'django.contrib.staticfiles'` app installed for the purpose of serving static files.
 
-At the bottom of **settings.py**, there is a `STATIC_URL = '/static/'` variable that declares what folder within apps to look for static files in.
+At the bottom of **settings.py**, there is a `STATIC_URL = 'static/'` variable that declares what folder within apps to look for static files in.
 
 We need that, so let's create it:
 
@@ -532,6 +532,8 @@ Finally, add this `<link>` below the Materialize CDN:
 ```
 
 The `static` DTL template tag ensures that the correct URL is assigned to the `href`.
+
+> IMPORTANT:  Django caches templates & statics, so let's restart the server!
 
 Refresh - and red city tells us that **style.css** is being loaded.  Let's update it with the following more pleasing CSS:
 
@@ -720,7 +722,7 @@ Because your completed Finch Collector app will be fairly comprehensive and be a
 
 ## References
 
-[Django Template Docs](https://docs.djangoproject.com/en/4.0/ref/templates/)
+[Django Template Docs](https://docs.djangoproject.com/en/4.1/ref/templates/)
 
-[Django Static Files](https://docs.djangoproject.com/en/4.0/howto/static-files/)
+[Django Static Files](https://docs.djangoproject.com/en/4.1/howto/static-files/)
 
