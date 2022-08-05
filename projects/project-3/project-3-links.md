@@ -13,5 +13,5 @@
 | Mario (Pod 3) |  |  |  |  |  |
 | <strong>Team 7</strong>:<br>Bri<br>Jessica<br>Jesus S. |  |  |  |  |  |
 | <strong>Team 8</strong>:<br>Noli<br>Sashank<br>Tay |  |  |  |  |  |
-| <strong>Team 9</strong>:<br>Beverly<br>Sidra<br>Zachary |  |  |  |  |  |
+| <strong>Cyber Booleans</strong><br>(Team 9):<br>Beverly<br>Sidra<br>Zachary |  |  |  |  |  |
 
