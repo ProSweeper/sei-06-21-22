@@ -14,7 +14,7 @@
 ## Road Map
 
 1. Review Django Architecture
-2. Review the Starter Code
+2. Quick Refactor of the Existing Code
 3. What's a Model?
 4. Models in Django
 5. Making and Running Migrations
@@ -29,11 +29,36 @@
 	
 This lesson focuses on the **Model layer** which provides **Views** with access to the **database**.
 
-## Review the Starter Code
+## Quick Refactor of the Existing Code
 
-The only change to the starter code from where the last lesson left off is that the `home` view now renders a **home.html** template instead of using `HttpResponse` to send back a string.
+Before we begin to learn about Django Models, let's do a quick refactor of the code from where we left off in the _Django URLs, Views and Templates_ lesson...
 
-Note that since the `HttpResponse` function is no longer being used in **views.py**, its import has been removed.
+First, in **main_app/views.py**, we'll replace the `HttpResponse` baby step we did in the `home` view function so that it renders a **home.html** template instead.  Here's the new `home` view:
+
+```python
+def home(request):
+  return render(request, 'home.html')
+```
+
+Now that the `HttpResponse` function is no longer being used in **views.py**, remove its import statement.
+
+We need the **home.html** template that's now being rendered.  Create the file:
+
+```
+$ touch main_app/templates/home.html
+```
+
+Finally, add some minimal content:
+
+```html
+{% extends 'base.html' %}
+{% block content %}
+
+<h1>Home</h1>
+
+{% endblock %}
+```
+
 
 ## What's a Model?
 
