@@ -68,4 +68,5 @@
 | W07D4 | [Git Team Workflow](https://generalassembly.zoom.us/rec/share/v028TODj1ztpbIcguUfWCYcCO0IPWzMI18eR8Emy2Db95lw6tNueOU2FlL3Lh1E.hw_-uETTxGPXkO3G?startTime=1659646047000) |
 | W07D4 | [Brief Intro to Django (and db troubleshooting)](https://generalassembly.zoom.us/rec/share/v028TODj1ztpbIcguUfWCYcCO0IPWzMI18eR8Emy2Db95lw6tNueOU2FlL3Lh1E.hw_-uETTxGPXkO3G?startTime=1659649506000) |
 | W07D5 | [Django URLs, Views and Templates](https://generalassembly.zoom.us/rec/share/MFwCGmgIqpp2ihZnzbT7-Z2TjSkY2RoxSLjVr1Fs0ND2zshl7uN0LOofqJgd86ib.zsgjX3ldfeYnvKRq?startTime=1659715207000) |
+| W07D5 | [CS - Linked Lists](https://generalassembly.zoom.us/rec/share/4oNRIIgnbi8EdEAyM_WdsMaE6bdNw4ASzPHMYelQ0wLEBIxC-r6TNBKgbg_ag0A-.PWIWp0DpOkiIqY-X?startTime=1659736807000) |
 
