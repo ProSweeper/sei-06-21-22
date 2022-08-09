@@ -69,4 +69,6 @@
 | W07D4 | [Brief Intro to Django (and db troubleshooting)](https://generalassembly.zoom.us/rec/share/v028TODj1ztpbIcguUfWCYcCO0IPWzMI18eR8Emy2Db95lw6tNueOU2FlL3Lh1E.hw_-uETTxGPXkO3G?startTime=1659649506000) |
 | W07D5 | [Django URLs, Views and Templates](https://generalassembly.zoom.us/rec/share/MFwCGmgIqpp2ihZnzbT7-Z2TjSkY2RoxSLjVr1Fs0ND2zshl7uN0LOofqJgd86ib.zsgjX3ldfeYnvKRq?startTime=1659715207000) |
 | W07D5 | [CS - Linked Lists](https://generalassembly.zoom.us/rec/share/4oNRIIgnbi8EdEAyM_WdsMaE6bdNw4ASzPHMYelQ0wLEBIxC-r6TNBKgbg_ag0A-.PWIWp0DpOkiIqY-X?startTime=1659736807000) |
+| W08D1 | [Intro to Django Models](https://generalassembly.zoom.us/rec/share/iGxhkIJkKoAYlUv1yI3_bFjXRdSzstr4wN3StcqH19WPqWXeyy4m7x_LDGfW3gYP.PNBz5-yoNoZ9FuFj?startTime=1659974407000) |
+| W08D1 | [Django Class-Based Views](https://generalassembly.zoom.us/rec/share/iGxhkIJkKoAYlUv1yI3_bFjXRdSzstr4wN3StcqH19WPqWXeyy4m7x_LDGfW3gYP.PNBz5-yoNoZ9FuFj?startTime=1659987904000) |
 
