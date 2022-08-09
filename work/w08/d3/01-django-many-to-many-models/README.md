@@ -163,7 +163,7 @@ Thus far, we have performed CRUD using the `objects` manager on a Model. For exa
 <QuerySet [<Cat: Biscuit>, <Cat: Morris>, <Cat: Maki>]>
 ```
 
-However, when a one-to-many or many-to-many relationship exists, Django also creates a [related manager](https://docs.djangoproject.com/en/4.0/ref/models/relations/) used to access the data related to a model instance.
+However, when a one-to-many or many-to-many relationship exists, Django also creates a [related manager](https://docs.djangoproject.com/en/4.1/ref/models/relations/) used to access the data related to a model instance.
 
 To check this out, let's query for a cat and save it in a variable:
 
@@ -318,7 +318,7 @@ def cats_detail(request, cat_id):
 
 The manager's `exclude` method is like `filter` except that it is used to query for objects that don't meet the criteria.
 
-The Django Query API enables [Field Lookups](https://docs.djangoproject.com/en/4.0/ref/models/querysets/#field-lookups) for every field in the model. `id__in` is one such field lookup that checks if the model's `id` is in a list and that list is being created with this code:
+The Django Query API enables [Field Lookups](https://docs.djangoproject.com/en/4.1/ref/models/querysets/#field-lookups) for every field in the model. `id__in` is one such field lookup that checks if the model's `id` is in a list and that list is being created with this code:
 
 ```python
 cat.toys.all().values_list('id')
@@ -467,9 +467,9 @@ class Ticket(models.Model):
     customer = models.ForeignKey(Customer, on_delete=models.CASCADE)
 ```
 
-For more information regarding _many-to-many through relationships_, start [here](https://docs.djangoproject.com/en/4.0/topics/db/models/#intermediary-manytomany) in the docs.
+For more information regarding _many-to-many through relationships_, start [here](https://docs.djangoproject.com/en/4.1/topics/db/models/#intermediary-manytomany) in the docs.
 
 ## References
 
-[Examples of CRUD with Many-to-Many Relationships](https://docs.djangoproject.com/en/4.0/topics/db/examples/many_to_many/)
+[Examples of CRUD with Many-to-Many Relationships](https://docs.djangoproject.com/en/4.1/topics/db/examples/many_to_many/)
 
