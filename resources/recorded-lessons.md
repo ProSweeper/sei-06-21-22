@@ -71,4 +71,5 @@
 | W07D5 | [CS - Linked Lists](https://generalassembly.zoom.us/rec/share/4oNRIIgnbi8EdEAyM_WdsMaE6bdNw4ASzPHMYelQ0wLEBIxC-r6TNBKgbg_ag0A-.PWIWp0DpOkiIqY-X?startTime=1659736807000) |
 | W08D1 | [Intro to Django Models](https://generalassembly.zoom.us/rec/share/iGxhkIJkKoAYlUv1yI3_bFjXRdSzstr4wN3StcqH19WPqWXeyy4m7x_LDGfW3gYP.PNBz5-yoNoZ9FuFj?startTime=1659974407000) |
 | W08D1 | [Django Class-Based Views](https://generalassembly.zoom.us/rec/share/iGxhkIJkKoAYlUv1yI3_bFjXRdSzstr4wN3StcqH19WPqWXeyy4m7x_LDGfW3gYP.PNBz5-yoNoZ9FuFj?startTime=1659987904000) |
+| W08D2 | [Django One-to-Many Model Relationships & ModelForms](https://generalassembly.zoom.us/rec/share/LF37is3tjjdrtTzrk9WAF43l_ufH89uvhNrrC9_RzNPoXd8Zy7bpZiXYLeTiq9tJ.W-E58KBjXChTOslO?startTime=1660060807000) |
 
