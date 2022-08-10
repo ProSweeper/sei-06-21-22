@@ -72,4 +72,5 @@
 | W08D1 | [Intro to Django Models](https://generalassembly.zoom.us/rec/share/iGxhkIJkKoAYlUv1yI3_bFjXRdSzstr4wN3StcqH19WPqWXeyy4m7x_LDGfW3gYP.PNBz5-yoNoZ9FuFj?startTime=1659974407000) |
 | W08D1 | [Django Class-Based Views](https://generalassembly.zoom.us/rec/share/iGxhkIJkKoAYlUv1yI3_bFjXRdSzstr4wN3StcqH19WPqWXeyy4m7x_LDGfW3gYP.PNBz5-yoNoZ9FuFj?startTime=1659987904000) |
 | W08D2 | [Django One-to-Many Model Relationships & ModelForms](https://generalassembly.zoom.us/rec/share/LF37is3tjjdrtTzrk9WAF43l_ufH89uvhNrrC9_RzNPoXd8Zy7bpZiXYLeTiq9tJ.W-E58KBjXChTOslO?startTime=1660060807000) |
+| W08D3 | [Django Many-to-Many Model Relationships](https://generalassembly.zoom.us/rec/share/9wU6tYrt8zoHYDEg8-DJQWQb4u4tw8042tZGcPmPOdxAwV-MeZvLs311vf9z_TOP.8rDh_JqGA13r6AC4?startTime=1660147205000) |
 
