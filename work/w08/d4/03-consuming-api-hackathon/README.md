@@ -32,7 +32,7 @@ Implement as many of the following user stories as you can:
 
 5. Copying/pasting the above endpoint into the browser's address bar will reveal the "shape" of the joke data returned by the API.
 
-6. The one and only view function for the root route will need to use the [Python Requests package](https://docs.python-requests.org/en/latest/) to send HTTP requests to the API endpoint.  Install it using `pip3 install requests` and follow the info in the [Quickstart section](https://docs.python-requests.org/en/latest/user/quickstart/) on how to make a simple `GET` request and access the returned JSON data.
+6. The one and only view function for the root route will need to use the [Python Requests package](https://requests.readthedocs.io/en/latest/) to send HTTP requests to the API endpoint.  Install it using `pip3 install requests` and follow the info in the [Quickstart section](https://requests.readthedocs.io/en/latest/user/quickstart/) on how to make a simple `GET` request and access the returned JSON data.
 
     > Note: Because this is Python, the JSON data will be accessible in dictionaries and/or lists.
 
