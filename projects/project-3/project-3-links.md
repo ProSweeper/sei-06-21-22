@@ -13,6 +13,6 @@
 | <strong>Ctrl-Alt-Elites</strong><br>(Team 6):<br>Jennifer<br>Jesus S.<br>Joba |  |  |  |  |  |
 | Mario (Pod 3) |  |  |  |  |  |
 | <strong>Monty Pythons!</strong><br>(Team 7):<br>Bri<br>Jessica<br>Jesus S. | Memories | [link](https://trello.com/b/cDGkJTaU/save-the-date) |  |  |  |
-| <strong>Team 8</strong>:<br>Noli<br>Sashank<br>Tay |  |  |  |  |  |
+| <strong>Team 8</strong>:<br>Noli<br>Sashank<br>Tay | WatcherBuddy | [link](https://trello.com/b/A0zpKHHI/watcherbuddy) |  |  |  |
 | <strong>Cyber Booleans</strong><br>(Team 9):<br>Beverly<br>Sidra<br>Zachary | Impasta | [link](https://trello.com/b/nNc6OQAq/p3) |  |  |  |
 
