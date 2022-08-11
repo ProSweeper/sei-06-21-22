@@ -507,7 +507,7 @@ Make the necessary changes to **signup.html**:
 
 <h1>Sign Up</h1>
 
-{% if error_message %}<p class="red-text">{{ error_message }}</p>{% endif %}
+<p class="red-text">{{ error_message }}</p>
 
 <form method="POST" action="{% url 'signup' %}">
   {% csrf_token %}
