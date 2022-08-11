@@ -14,5 +14,5 @@
 | Mario (Pod 3) |  |  |  |  |  |
 | <strong>Monty Pythons!</strong><br>(Team 7):<br>Bri<br>Jessica<br>Jesus S. | Save the Date | [link](https://trello.com/b/cDGkJTaU/save-the-date) |  |  |  |
 | <strong>Team 8</strong>:<br>Noli<br>Sashank<br>Tay | WatcherBuddy | [link](https://trello.com/b/A0zpKHHI/watcherbuddy) |  |  |  |
-| <strong>Cyber Booleans</strong><br>(Team 9):<br>Beverly<br>Sidra<br>Zachary | Impasta | [link](https://trello.com/b/nNc6OQAq/p3) |  |  |  |
+| <strong>Cyber Booleans</strong><br>(Team 9):<br>Beverly<br>Sidra<br>Zachary | Impasta | [link](https://trello.com/b/nNc6OQAq/p3) | [link](https://docs.google.com/presentation/d/1dgsYbuYMJiN5t90K81Bh1uxw5GJklvUIlZvxG-dPj9U/edit#slide=id.g1435ef5f901_0_39) |  |  |
 
