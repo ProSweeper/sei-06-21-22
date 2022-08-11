@@ -10,7 +10,7 @@
 | Devlin (Pod 2) |  |  |  |  |  |
 | <strong>Team 4</strong>:<br>Alex<br>Andrew<br>Russel | Bidding Wars | [link](https://trello.com/b/tQjXhAb2/bidding-wars) |  |  |  |
 | <strong>Team 404</strong><br>(Team 5):<br>Anthony<br>DK<br>Justin |  | [link](https://trello.com/b/O6Ac0Ztb/dev-app) |  |  |  |
-| <strong>Ctrl-Alt-Elites</strong><br>(Team 6):<br>Jennifer<br>Jesus S.<br>Joba |  |  |  |  |  |
+| <strong>Ctrl-Alt-Elites</strong><br>(Team 6):<br>Jennifer<br>Jesus S.<br>Joba | On the Record | [link](https://trello.com/b/mdkoYGtT/p3-on-the-record) |  |  |  |
 | Mario (Pod 3) |  |  |  |  |  |
 | <strong>Monty Pythons!</strong><br>(Team 7):<br>Bri<br>Jessica<br>Jesus S. | Memories | [link](https://trello.com/b/cDGkJTaU/save-the-date) |  |  |  |
 | <strong>Team 8</strong>:<br>Noli<br>Sashank<br>Tay | WatcherBuddy | [link](https://trello.com/b/A0zpKHHI/watcherbuddy) |  |  |  |
