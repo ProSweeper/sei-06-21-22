@@ -266,7 +266,7 @@ When `LoginView` renders the **login.html** template, it passes in the context a
 <form method="POST" action="{% url 'login' %}">
   {% csrf_token %}
   {{ form.as_p }}
-  <input type="submit" class="btn" value="login">
+  <input type="submit" class="btn" value="Log In">
   <input type="hidden" name="next" value="{{ next }}">
 </form>
 ```
@@ -366,7 +366,7 @@ Thanks again to the `django.contrib.admin` app's built-in `LogOut` view, we didn
 However, we'll want to redirect to a URL different from the default which we can make happen in the same way we just did when logging in - by adding another variable to **settings.py**:
 
 ```python
-STATIC_URL = '/static/'
+STATIC_URL = 'static/'
 
 LOGIN_REDIRECT_URL = '/cats/'
 
@@ -512,7 +512,7 @@ Make the necessary changes to **signup.html**:
 <form method="POST" action="{% url 'signup' %}">
   {% csrf_token %}
   {{ form.as_p }}
-  <input type="submit" class="btn" value="signup">
+  <input type="submit" class="btn" value="Sign Up">
 </form>
 
 {% endblock %}
