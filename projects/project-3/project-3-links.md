@@ -8,11 +8,11 @@
 | <strong>POPs (Project Oriented Pythonistas)
 </strong><br>(Team 3):<br>Claude<br>Iris<br>Lillie | Next Stop | [link](https://trello.com/b/RK4imob0/project-3-board) | [link](https://docs.google.com/presentation/d/19rN-ZUtpuIRyVIwPDxk3bVWGei_MSXAD_0CX6XqsZk0/edit#slide=id.g142d0d086dd_0_2) |  |  |
 | Devlin (Pod 2) |  |  |  |  |  |
-| <strong>Team 4</strong>:<br>Alex<br>Andrew<br>Russel | Bidding Wars | [link](https://trello.com/b/tQjXhAb2/bidding-wars) |  |  |  |
+| <strong>Team 4</strong>:<br>Alex<br>Andrew<br>Russel | Bidding Wars | [link](https://trello.com/b/tQjXhAb2/bidding-wars) | [link](https://docs.google.com/presentation/d/1W7sctJsqlTuLoDsJuklFTEo6R7LzKr0Gk29IPp0CqIU/edit#slide=id.g143b5ed8b7e_2_54) |  |  |
 | <strong>Team 404</strong><br>(Team 5):<br>Anthony<br>DK<br>Justin | SafeTravels | [link](https://trello.com/b/O6Ac0Ztb/dev-app) | [link](https://docs.google.com/presentation/d/1dMOHpVo0040C-_uiE15yyEcOSOevrGH9rdu4zOt5KIg/edit#slide=id.gcb9a0b074_1_0) |  |  |
-| <strong>Ctrl-Alt-Elites</strong><br>(Team 6):<br>Jennifer<br>Jesus S.<br>Joba | On the Record | [link](https://trello.com/b/mdkoYGtT/p3-on-the-record) |  |  |  |
+| <strong>Ctrl-Alt-Elites</strong><br>(Team 6):<br>Jennifer<br>Jesus S.<br>Joba | On the Record | [link](https://trello.com/b/mdkoYGtT/p3-on-the-record) | [link](https://docs.google.com/presentation/d/1FZZSeCNywKqTfZNEBDX9NsnkZTBLEG9S/edit#slide=id.p1) |  |  |
 | Mario (Pod 3) |  |  |  |  |  |
-| <strong>Monty Pythons!</strong><br>(Team 7):<br>Bri<br>Jessica<br>Jesus S. | Save the Date | [link](https://trello.com/b/cDGkJTaU/save-the-date) |  |  |  |
-| <strong>Team 8</strong>:<br>Noli<br>Sashank<br>Tay | NoSpoilers | [link](https://trello.com/b/A0zpKHHI/watcherbuddy) |  |  |  |
+| <strong>Monty Pythons!</strong><br>(Team 7):<br>Bri<br>Jessica<br>Jesus S. | Save the Date | [link](https://trello.com/b/cDGkJTaU/save-the-date) | [link](https://docs.google.com/presentation/d/1SaoJs9yisrbozwj0nHrweUV6rOhnIV0e3II7s7xf0pI/edit#slide=id.p) |  |  |
+| <strong>Team 8</strong>:<br>Noli<br>Sashank<br>Tay | NoSpoilers | [link](https://trello.com/b/A0zpKHHI/watcherbuddy) | [link](https://docs.google.com/presentation/d/1-H63W54U2n3uemM6pY40CewSpWYZ2xJDMYKUFheXSOI/edit#slide=id.g4f0aac3276821a81_1) |  |  |
 | <strong>Cyber Booleans</strong><br>(Team 9):<br>Beverly<br>Sidra<br>Zachary | Impasta | [link](https://trello.com/b/nNc6OQAq/p3) | [link](https://docs.google.com/presentation/d/1dgsYbuYMJiN5t90K81Bh1uxw5GJklvUIlZvxG-dPj9U/edit#slide=id.g1435ef5f901_0_39) |  |  |
 
