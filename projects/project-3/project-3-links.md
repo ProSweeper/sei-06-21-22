@@ -3,7 +3,7 @@
 | Team | Project Name | Trello | Pitch Deck | GitHub | Hosted Site |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Stephanie (Pod 1) |  |  |  |  |  |
-| <strong>Snake Charmers!</strong><br>(Team 1):<br>Bec<br>Ernest<br>Tony | Simply Recipes | [link](https://trello.com/b/i26CC4OI/p3-recipes) | [link](https://docs.google.com/presentation/d/1SFSRBG_gq9w199Avh_QMlrChBBJUUKdSc6KUNBbYDno/edit#slide=id.p) | [link]([link](https://github.com/anthonybrockett/recipeapp)) |  |
+| <strong>Snake Charmers!</strong><br>(Team 1):<br>Bec<br>Ernest<br>Tony | Simply Recipes | [link](https://trello.com/b/i26CC4OI/p3-recipes) | [link](https://docs.google.com/presentation/d/1SFSRBG_gq9w199Avh_QMlrChBBJUUKdSc6KUNBbYDno/edit#slide=id.p) | [link](https://github.com/anthonybrockett/recipeapp) |  |
 | <strong>Team 2</strong>:<br>Adam<br>Ian<br>Munaaf | LoveStruck | [link](https://trello.com/b/PBY0tISr/project-3) | [link](https://docs.google.com/presentation/d/1_C9JaBSYVeDgHVsHnY2Q-P-sXTuMCEwhj0w4nx1M2hU/edit#slide=id.p) | [link](https://github.com/mkbozai/lovestruck) |  |
 | <strong>POPs (Project Oriented Pythonistas)
 </strong><br>(Team 3):<br>Claude<br>Iris<br>Lillie | Next Stop | [link](https://trello.com/b/RK4imob0/project-3-board) | [link](https://docs.google.com/presentation/d/19rN-ZUtpuIRyVIwPDxk3bVWGei_MSXAD_0CX6XqsZk0/edit#slide=id.g142d0d086dd_0_2) |  |  |
