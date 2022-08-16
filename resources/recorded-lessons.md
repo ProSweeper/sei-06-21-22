@@ -77,4 +77,5 @@
 | W08D4 | [Uploading Images to S3 in Django](https://generalassembly.zoom.us/rec/share/PYCkmB5w0p4X61O8jNdFL4lLgS8ch-MBywQ1QOhEOycTXoohgGO-m3AYLWAKuGeA.itcqLlYxKfDfHALB?startTime=1660233608000) |
 | W08D4 | [CS - Binary Trees](https://generalassembly.zoom.us/rec/share/PYCkmB5w0p4X61O8jNdFL4lLgS8ch-MBywQ1QOhEOycTXoohgGO-m3AYLWAKuGeA.itcqLlYxKfDfHALB?startTime=1660259488000) |
 | W08D5 | [Django Authentication](https://generalassembly.zoom.us/rec/share/Pacfro5wPFb9BL_F4SLwdXT8z1sxypyUSBpmrOiQMkBy_QDJYpDW9UXIlX4Ixt8.D5vlVAeQjFMvzHji?startTime=1660320006000) |
+| W09D1 | [CS - Graphs](https://generalassembly.zoom.us/rec/share/bW14xRCXJgNtJzVslZli1B2W1y6vbbBefUHlxgye42h_aHRr4V42lGRBl0yvPag.708IDjwTdEGC7Fgc?startTime=1660592710000) |
 
