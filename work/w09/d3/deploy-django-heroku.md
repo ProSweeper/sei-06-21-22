@@ -256,12 +256,12 @@ sessions
  [X] 0001_initial
 ```
 
-We can run most any command we can locally on the Heroku server by prefacing the command with `heroku run` and substituting `python` for `python3` (Python 3 on Heroku's servers are configured as `python`).
+We can run most any command we can locally on the Heroku server by prefacing the command with `heroku run`.
 
 Let's check out the migrations for the deployed app:
 
 ```
-$ heroku run python manage.py showmigrations
+$ heroku run python3 manage.py showmigrations
 ```
 
 Which generates the following output for Cat Collector:
@@ -298,7 +298,7 @@ sessions
 Yup, the unchecked migrations tells us that they need to be migrated:
 
 ```
-$ heroku run python manage.py migrate
+$ heroku run python3 manage.py migrate
 ```
 
 Lots of `OK`s is a good sign!
@@ -356,7 +356,7 @@ $ heroku logs
 Because the database is "fresh", there's no superuser yet.
 
 ```
-$ heroku run python manage.py createsuperuser
+$ heroku run python3 manage.py createsuperuser
 ```
 
 It's the same process as locally, just a bit slower.
