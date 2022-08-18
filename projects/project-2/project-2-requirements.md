@@ -102,7 +102,7 @@ You will have a maximum of 10 minutes to present your project following these gu
 
 ☐ **A working full-stack app that meets or exceeds the above technical requirements, built by you, and hosted on Heroku**.
 
-- **A ``README.md`` file** with these sections:
+- **A ``README.md`` file** with these sections (here's a [basic template](https://gist.github.com/jim-clark/db8cb10e39c22ede6474a878aaf7fa43)):
 
   ☐ **App Title:** Contains a description of what the app does and optional background info.
   
