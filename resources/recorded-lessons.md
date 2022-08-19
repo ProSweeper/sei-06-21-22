@@ -79,4 +79,5 @@
 | W08D5 | [Django Authentication](https://generalassembly.zoom.us/rec/share/Pacfro5wPFb9BL_F4SLwdXT8z1sxypyUSBpmrOiQMkBy_QDJYpDW9UXIlX4Ixt8.D5vlVAeQjFMvzHji?startTime=1660320006000) |
 | W09D1 | [CS - Graphs](https://generalassembly.zoom.us/rec/share/bW14xRCXJgNtJzVslZli1B2W1y6vbbBefUHlxgye42h_aHRr4V42lGRBl0yvPag.708IDjwTdEGC7Fgc?startTime=1660592710000) |
 | W09D3 | [Deploy a Django App to Heroku](https://generalassembly.zoom.us/rec/share/eaEAqLBAazw98sY9MG9vzD_incKeuiC49GFV-R_9gSOFdiD32YIkXDieAKPWt84m.Tj12LCmRwmgl_dPs?startTime=1660765507000) |
+| W09D4 | [Project 3 Assessment Prep](https://generalassembly.zoom.us/rec/share/YVzfk-TchLeRyaqwZLP01vaN0zLRTcmup0IoITY384mu94pnawGhoA4A6FQfjvCC.3c44JfzspY4pKj9T?startTime=1660851905000) |
 
