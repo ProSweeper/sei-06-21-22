@@ -80,4 +80,7 @@
 | W09D1 | [CS - Graphs](https://generalassembly.zoom.us/rec/share/bW14xRCXJgNtJzVslZli1B2W1y6vbbBefUHlxgye42h_aHRr4V42lGRBl0yvPag.708IDjwTdEGC7Fgc?startTime=1660592710000) |
 | W09D3 | [Deploy a Django App to Heroku](https://generalassembly.zoom.us/rec/share/eaEAqLBAazw98sY9MG9vzD_incKeuiC49GFV-R_9gSOFdiD32YIkXDieAKPWt84m.Tj12LCmRwmgl_dPs?startTime=1660765507000) |
 | W09D4 | [Project 3 Assessment Prep](https://generalassembly.zoom.us/rec/share/YVzfk-TchLeRyaqwZLP01vaN0zLRTcmup0IoITY384mu94pnawGhoA4A6FQfjvCC.3c44JfzspY4pKj9T?startTime=1660851905000) |
+| W10D1 | [Intro to React and Components - Part 1](https://generalassembly.zoom.us/rec/share/zBjKPoZxH_vGvyE_P6X4nIZA4jkdNMbggC0n3au-gyWFNO6wIjHkz4qoXAQMHNco.Tn-MfKcDDwerKc3e?startTime=1661184407000) |
+| W10D1 | [Intro to React and Components - Part 2](https://generalassembly.zoom.us/rec/share/zBjKPoZxH_vGvyE_P6X4nIZA4jkdNMbggC0n3au-gyWFNO6wIjHkz4qoXAQMHNco.Tn-MfKcDDwerKc3e?startTime=1661190237000) |
+| W10D1 | [React Fundamentals - JSX & Props](https://generalassembly.zoom.us/rec/share/zBjKPoZxH_vGvyE_P6X4nIZA4jkdNMbggC0n3au-gyWFNO6wIjHkz4qoXAQMHNco.Tn-MfKcDDwerKc3e?startTime=1661197752000) |
 
