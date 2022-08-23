@@ -83,4 +83,5 @@
 | W10D1 | [Intro to React and Components - Part 1](https://generalassembly.zoom.us/rec/share/zBjKPoZxH_vGvyE_P6X4nIZA4jkdNMbggC0n3au-gyWFNO6wIjHkz4qoXAQMHNco.Tn-MfKcDDwerKc3e?startTime=1661184407000) |
 | W10D1 | [Intro to React and Components - Part 2](https://generalassembly.zoom.us/rec/share/zBjKPoZxH_vGvyE_P6X4nIZA4jkdNMbggC0n3au-gyWFNO6wIjHkz4qoXAQMHNco.Tn-MfKcDDwerKc3e?startTime=1661190237000) |
 | W10D1 | [React Fundamentals - JSX & Props](https://generalassembly.zoom.us/rec/share/zBjKPoZxH_vGvyE_P6X4nIZA4jkdNMbggC0n3au-gyWFNO6wIjHkz4qoXAQMHNco.Tn-MfKcDDwerKc3e?startTime=1661197752000) |
+| W10D2 | [React Fundamentals - Using and Updating State](https://generalassembly.zoom.us/rec/share/5emFvf6zzq8tvpXHqKxjSMC0sO7PT-GN_gr5n3UVq2ZvKQ5kRoQtHr1amRKEhZ_r.qeN7uC38MN-wKpKi?startTime=1661270795000) |
 
