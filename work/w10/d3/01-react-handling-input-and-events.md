@@ -331,7 +331,7 @@ function addTodo(todo) {
 
 As discussed in the last lesson, we are using the spread syntax to include (spread) the current elements of the `todos` array within a new array literal, adding the new todo at the end.
 
-#### 💪 Practice Exercise - Pass `addTodo` to the `<NewToDoForm>` Component (2 minute)
+#### 💪 Practice Exercise - Pass `addTodo` to the `<NewToDoForm>` Component (2 minutes)
 
 1. Pass the `addTodo` function from **App.js** to the `<NewToDoForm>` component using a prop with the same name.
 
