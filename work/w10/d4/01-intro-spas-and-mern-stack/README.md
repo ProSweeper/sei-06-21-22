@@ -160,7 +160,7 @@ There are two general architectures we could pursue:
 
 | Architecture | Pros | Cons |
 | --- | --- | --- |
-| Separate Projects | <ul><li>Better for when the backend services multiple frontend projects (web, native mobile, desktop).</li></ul> | <ul><li>Must manage two projects and git repos.</li><li>Must deploy to two separate projects.</li><li>The React project will require code and/or configuration to access the correct backend during development (localhost) and production (could be anywhere).</li><li>Must implement CORS.</li></ul> |
+| Separate Projects | <ul><li>Better for when the backend services multiple frontend projects (web, native mobile, desktop).</li></ul> | <ul><li>Must manage two projects and git repos.</li><li>Must deploy those two projects separately.</li><li>The React project will require code and/or configuration to access the correct backend during development (localhost) and production (could be anywhere).</li><li>Must implement CORS.</li></ul> |
 | Single Project | <ul><li>A single integrated project.</li><li>None of the above Cons.</li></ul> | <ul><li>Not the best project structure to re-use the same backend project to service multiple frontend projects, e.g., Web/Mobile/Desktop</li></ul> |
 
 The single, integrated project approach looks to be a no-brainer. But, what does the structure of a single project look like?
