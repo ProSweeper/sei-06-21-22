@@ -473,7 +473,7 @@ In a MERN-Stack app there's bound to be application/business logic, AJAX/API req
 Although it would be possible to code this logic directly within components, there are downsides of doing so:
 
 - Poor code organization. As you know, it's better to modularize related code into separate modules, e.g., the `config/database.js` module.  Organizing code into modules makes it easier to build an application because you'll more or less know where new code will go.  It's also easier to refactor and debug when code is organized into focused modules.
-- Smaller, more readable components. Reading a line of code like `const user = await signUp(formData);` in a component is far better than having read through all of the code included in the `signUp()` "service" function.
+- Bloated, less readable components. Reading a line of code like `const user = await signUp(formData);` in a component is far better than having read through all of the code included in the `signUp()` "service" function.
 - Not DRY and violates the "separation of concerns" principle.  For example, if we wanted to fetch the same data from more than one component, we'd be repeating ourselves. Service and API modules can often be used in multiple projects.
 
 ### Utilities, Services, APIs, oh my...
