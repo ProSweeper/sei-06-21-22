@@ -87,4 +87,6 @@
 | W10D3 | [React Fundamentals - Handling Input and Events](https://generalassembly.zoom.us/rec/share/2RlTytrOrqBGqt8drIZ_3OKUJ_Vyt4eJl5TYjml3v8pBgLFLzteKVWG1rp7pLoAI.QG8ObFTVbjZmzabv?startTime=1661356820000) |
 | W10D4 | [Intro to SPAs and the MERN-Stack](https://generalassembly.zoom.us/rec/share/sRHSHnldnYgONgxsHnSoCQigS68xpVZxk2UW-YWUs6mNuxE-xGU0V2oZN0CCm7a6.hCItIn765YMkx06Y?startTime=1661443207000) |
 | W10D4 | [MERN-Stack Infrastructure - Part 1](https://generalassembly.zoom.us/rec/share/sRHSHnldnYgONgxsHnSoCQigS68xpVZxk2UW-YWUs6mNuxE-xGU0V2oZN0CCm7a6.hCItIn765YMkx06Y?startTime=1661451419000) |
+| W10D5 | [MERN-Stack Infrastructure - Part 2](https://generalassembly.zoom.us/rec/share/Y8Ji6XZGndzkbTlUFVYpjhVyqyc1IA8cfNU3N3E0KKhNppSvq6GbhUKAAludLBk.Pac4gx1WiZOGtGSJ?startTime=1661529607000) |
+| W10D5 | [MERN-Stack Infrastructure - Part 3](https://generalassembly.zoom.us/rec/share/Y8Ji6XZGndzkbTlUFVYpjhVyqyc1IA8cfNU3N3E0KKhNppSvq6GbhUKAAludLBk.Pac4gx1WiZOGtGSJ?startTime=1661546127000) |
 
