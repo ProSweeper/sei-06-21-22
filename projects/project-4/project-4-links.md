@@ -24,11 +24,11 @@
 | Justin |  |  |  |  |
 | Lillie |  |  |  |  |
 | POD 3 - Stephanie |  |  |  |  |
-| Bec |  |  |  |  |
+| Bec | Video Game Tracker |  |  |  |
 | Munaaf |  |  |  |  |
 | Nolawi |  |  |  |  |
 | Russel |  |  |  |  |
 | Sashank |  |  |  |  |
 | Sidra |  |  |  |  |
-| Taylor |  |  |  |  |
+| Taylor | Turn-Based Game w/Stats |  |  |  |
 | Zachary |  |  |  |  |
