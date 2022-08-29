@@ -6,12 +6,12 @@
 | Adam |  |  |  |  |
 | Alexander |  |  |  |  |
 | Anthony |  |  |  |  |
-| Beverly |  |  |  |  |
+| Beverly | Smart Chart (Classroom Seating) |  |  |  |
 | Brianna |  |  |  |  |
 | Claude |  |  |  |  |
 | Ernest |  |  |  |  |
 | Ian |  |  |  |  |
-| Jennifer |  |  |  |  |
+| Jennifer | Book Reviews (Google Books API) |  |  |  |
 | Tony |  |  |  |  |
 | POD 2 - Mario |  |  |  |  |
 | Andrew |  |  |  |  |
@@ -24,7 +24,7 @@
 | Justin |  |  |  |  |
 | Lillie |  |  |  |  |
 | POD 3 - Stephanie |  |  |  |  |
-| Bec | Video Game Tracker |  |  |  |
+| Bec | Video Game Tracker (API) |  |  |  |
 | Munaaf |  |  |  |  |
 | Nolawi |  |  |  |  |
 | Russel |  |  |  |  |
