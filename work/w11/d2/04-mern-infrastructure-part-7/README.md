@@ -196,8 +196,8 @@ export default async function sendRequest(url, method = 'GET', payload = null) {
   // Add the below code
   const token = getToken();
   if (token) {
-    // Ensure the headers object exists
-    options.headers = options.headers || {};
+    // Great use case for the Logical OR assignment operator
+    options.headers ||= {};
     // Add token to an Authorization header
     // Prefacing with 'Bearer' is recommended in the HTTP specification
     options.headers.Authorization = `Bearer ${token}`;
