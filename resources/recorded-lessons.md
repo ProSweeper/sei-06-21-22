@@ -89,4 +89,6 @@
 | W10D4 | [MERN-Stack Infrastructure - Part 1](https://generalassembly.zoom.us/rec/share/sRHSHnldnYgONgxsHnSoCQigS68xpVZxk2UW-YWUs6mNuxE-xGU0V2oZN0CCm7a6.hCItIn765YMkx06Y?startTime=1661451419000) |
 | W10D5 | [MERN-Stack Infrastructure - Part 2](https://generalassembly.zoom.us/rec/share/Y8Ji6XZGndzkbTlUFVYpjhVyqyc1IA8cfNU3N3E0KKhNppSvq6GbhUKAAludLBk.Pac4gx1WiZOGtGSJ?startTime=1661529607000) |
 | W10D5 | [MERN-Stack Infrastructure - Part 3](https://generalassembly.zoom.us/rec/share/Y8Ji6XZGndzkbTlUFVYpjhVyqyc1IA8cfNU3N3E0KKhNppSvq6GbhUKAAludLBk.Pac4gx1WiZOGtGSJ?startTime=1661546127000) |
+| W10D5 | [MERN-Stack Infrastructure - Part 4](https://generalassembly.zoom.us/rec/share/l5yRgwi8muhgwT1MYIbaKSv8z5JzIgcGFVe52kXYyteBobyeOUkZ7Pl-0mRLor79.luPWja7LbTlViAcX?startTime=1661789388000) |
+| W10D5 | [MERN-Stack Infrastructure - Part 5](https://generalassembly.zoom.us/rec/share/l5yRgwi8muhgwT1MYIbaKSv8z5JzIgcGFVe52kXYyteBobyeOUkZ7Pl-0mRLor79.luPWja7LbTlViAcX?startTime=1661802378000) |
 
