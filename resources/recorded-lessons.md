@@ -91,4 +91,6 @@
 | W10D5 | [MERN-Stack Infrastructure - Part 3](https://generalassembly.zoom.us/rec/share/Y8Ji6XZGndzkbTlUFVYpjhVyqyc1IA8cfNU3N3E0KKhNppSvq6GbhUKAAludLBk.Pac4gx1WiZOGtGSJ?startTime=1661546127000) |
 | W10D5 | [MERN-Stack Infrastructure - Part 4](https://generalassembly.zoom.us/rec/share/l5yRgwi8muhgwT1MYIbaKSv8z5JzIgcGFVe52kXYyteBobyeOUkZ7Pl-0mRLor79.luPWja7LbTlViAcX?startTime=1661789388000) |
 | W10D5 | [MERN-Stack Infrastructure - Part 5](https://generalassembly.zoom.us/rec/share/l5yRgwi8muhgwT1MYIbaKSv8z5JzIgcGFVe52kXYyteBobyeOUkZ7Pl-0mRLor79.luPWja7LbTlViAcX?startTime=1661802378000) |
+| W10D5 | [MERN-Stack Infrastructure - Part 6](https://generalassembly.zoom.us/rec/share/dZLVGtpA99zE2gbCu4k4ehTkGLici4ywgviBLhEeytgRLuDg8t4ifInHOE7qy_Sk.K0irxnxoPxqoHvEA?startTime=1661875207000) |
+| W10D5 | [Login Exercise Review](https://generalassembly.zoom.us/rec/share/dZLVGtpA99zE2gbCu4k4ehTkGLici4ywgviBLhEeytgRLuDg8t4ifInHOE7qy_Sk.K0irxnxoPxqoHvEA?startTime=1661883710000) |
 
