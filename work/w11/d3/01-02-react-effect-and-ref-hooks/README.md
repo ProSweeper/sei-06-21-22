@@ -754,14 +754,12 @@ Adding a line of code within the `useEffect` will take care of it:
 useEffect(function() {
   async function getItems() {
     const items = await itemsAPI.getAll();
-    categoriesRef.current = items.reduce((cats, item) => {
-      const cat = item.category.name;
-      return cats.includes(cat) ? cats : [...cats, cat];
-    }, []);
+    categoriesRef.current = [...new Set(items.map(item => item.category.name))];
     setMenuItems(items);
-    // Add this line to initialize the active category
     setActiveCat(categoriesRef.current[0]);
-    ...
+  }
+  getItems();
+}, []);
 ```
 
 That took care of two birds!
