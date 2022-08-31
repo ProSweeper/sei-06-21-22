@@ -15,17 +15,17 @@
 | Tony | Income Tracker/Calendar |  |  |  |
 | POD 2 - Mario |  |  |  |  |
 | Andrew |  |  |  |  |
-| DK |  |  |  |  |
+| DK | Real Estate Listings |  |  |  |
 | Iris |  |  |  |  |
-| Jessica | Baked Goods ECommerce |  |  |  |
+| Jessica | Bakery ECommerce |  |  |  |
 | Jesus A. | Bartender Buddy |  |  |  |
 | Jesus S. | Health ECommerce  |  |  |  |
 | Joba |  |  |  |  |
 | Justin | Stylus ECommerce |  |  |  |
-| Lillie |  |  |  |  |
+| Lillie | Wish List (OpenBrewery API) |  |  |  |
 | POD 3 - Stephanie |  |  |  |  |
 | Bec | Video Game Tracker (API) |  |  |  |
-| Munaaf |  |  |  |  |
+| Munaaf | Productivity App |  |  |  |
 | Nicole | Mood Muse (YT API) |  |  |  |
 | Nolawi | Coffee Shop Finder (Google Places) |  |  |  |
 | Russel | Rhythm Rift (Spotify API) |  |  |  |
