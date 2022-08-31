@@ -89,8 +89,9 @@
 | W10D4 | [MERN-Stack Infrastructure - Part 1](https://generalassembly.zoom.us/rec/share/sRHSHnldnYgONgxsHnSoCQigS68xpVZxk2UW-YWUs6mNuxE-xGU0V2oZN0CCm7a6.hCItIn765YMkx06Y?startTime=1661451419000) |
 | W10D5 | [MERN-Stack Infrastructure - Part 2](https://generalassembly.zoom.us/rec/share/Y8Ji6XZGndzkbTlUFVYpjhVyqyc1IA8cfNU3N3E0KKhNppSvq6GbhUKAAludLBk.Pac4gx1WiZOGtGSJ?startTime=1661529607000) |
 | W10D5 | [MERN-Stack Infrastructure - Part 3](https://generalassembly.zoom.us/rec/share/Y8Ji6XZGndzkbTlUFVYpjhVyqyc1IA8cfNU3N3E0KKhNppSvq6GbhUKAAludLBk.Pac4gx1WiZOGtGSJ?startTime=1661546127000) |
-| W10D5 | [MERN-Stack Infrastructure - Part 4](https://generalassembly.zoom.us/rec/share/l5yRgwi8muhgwT1MYIbaKSv8z5JzIgcGFVe52kXYyteBobyeOUkZ7Pl-0mRLor79.luPWja7LbTlViAcX?startTime=1661789388000) |
-| W10D5 | [MERN-Stack Infrastructure - Part 5](https://generalassembly.zoom.us/rec/share/l5yRgwi8muhgwT1MYIbaKSv8z5JzIgcGFVe52kXYyteBobyeOUkZ7Pl-0mRLor79.luPWja7LbTlViAcX?startTime=1661802378000) |
-| W10D5 | [MERN-Stack Infrastructure - Part 6](https://generalassembly.zoom.us/rec/share/dZLVGtpA99zE2gbCu4k4ehTkGLici4ywgviBLhEeytgRLuDg8t4ifInHOE7qy_Sk.K0irxnxoPxqoHvEA?startTime=1661875207000) |
-| W10D5 | [Login Exercise Review](https://generalassembly.zoom.us/rec/share/dZLVGtpA99zE2gbCu4k4ehTkGLici4ywgviBLhEeytgRLuDg8t4ifInHOE7qy_Sk.K0irxnxoPxqoHvEA?startTime=1661883710000) |
+| W11D1 | [MERN-Stack Infrastructure - Part 4](https://generalassembly.zoom.us/rec/share/l5yRgwi8muhgwT1MYIbaKSv8z5JzIgcGFVe52kXYyteBobyeOUkZ7Pl-0mRLor79.luPWja7LbTlViAcX?startTime=1661789388000) |
+| W11D1 | [MERN-Stack Infrastructure - Part 5](https://generalassembly.zoom.us/rec/share/l5yRgwi8muhgwT1MYIbaKSv8z5JzIgcGFVe52kXYyteBobyeOUkZ7Pl-0mRLor79.luPWja7LbTlViAcX?startTime=1661802378000) |
+| W11D2 | [MERN-Stack Infrastructure - Part 6](https://generalassembly.zoom.us/rec/share/dZLVGtpA99zE2gbCu4k4ehTkGLici4ywgviBLhEeytgRLuDg8t4ifInHOE7qy_Sk.K0irxnxoPxqoHvEA?startTime=1661875207000) |
+| W11D2 | [Login Exercise Review](https://generalassembly.zoom.us/rec/share/dZLVGtpA99zE2gbCu4k4ehTkGLici4ywgviBLhEeytgRLuDg8t4ifInHOE7qy_Sk.K0irxnxoPxqoHvEA?startTime=1661883710000) |
+| W11D2 | [MERN-Stack Infrastructure - Part 7](https://generalassembly.zoom.us/rec/share/xusLfCg53_rN52pryG86FKAg5mf2iXjLo4fsDtNtW6Z5v6vZ95v3V0heGUz8zI64.ZY3V1FtqzBRkm8Ct?startTime=1661895908000) |
 
