@@ -632,14 +632,13 @@ We'll want to compute categories right after the items have arrived:
 useEffect(function() {
   async function getItems() {
     const items = await itemsAPI.getAll();
+    // Remove dups of category names using a Set, then spread Set back into an array literal
     categoriesRef.current = [...new Set(items.map(item => item.category.name))];
     setMenuItems(items);
   }
   getItems();
 }, []);
 ```
-
-> Indeed, `reduce` is the most complex of the array iterator methods. However, you should use it when it's the right method for the job. It won't be long before you start to feel comfortable using `reduce` when it's called for.
 
 React's Developer Tools confirms that we've done well:
 
