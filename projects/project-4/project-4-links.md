@@ -3,12 +3,12 @@
 | Student | Project Name | Planning (Trello) | GitHub | Hosted Site |
 |---|:---:|:---:|:---:|:---:|
 | POD 1 - Devlin |  |  |  |  |
-| Adam |  |  |  |  |
-| Alexander |  |  |  |  |
+| Adam | Basketball Stats |  |  |  |
+| Alexander | Golf Score Tracking |  |  |  |
 | Anthony | Health Tracker |  |  |  |
 | Beverly | Smart Chart (Classroom Seating) |  |  |  |
 | Brianna | Family Organizer |  |  |  |
-| Claude |  |  |  |  |
+| Claude | Photo Sharing |  |  |  |
 | Ernest | Social Shopping List |  |  |  |
 | Ian |  |  |  |  |
 | Jennifer | Book Reviews (Google Books API) |  |  |  |
@@ -18,17 +18,17 @@
 | DK |  |  |  |  |
 | Iris |  |  |  |  |
 | Jessica |  |  |  |  |
-| Jesus A. |  |  |  |  |
+| Jesus A. | Bartender Buddy |  |  |  |
 | Jesus S. |  |  |  |  |
 | Joba |  |  |  |  |
-| Justin |  |  |  |  |
+| Justin | Stylus ECommerce |  |  |  |
 | Lillie |  |  |  |  |
 | POD 3 - Stephanie |  |  |  |  |
 | Bec | Video Game Tracker (API) |  |  |  |
 | Munaaf |  |  |  |  |
-| Nolawi |  |  |  |  |
+| Nolawi | Coffee Shop Finder (Google Places) |  |  |  |
 | Russel |  |  |  |  |
 | Sashank |  |  |  |  |
-| Sidra |  |  |  |  |
+| Sidra | Budget Management |  |  |  |
 | Taylor | Turn-Based Game w/Stats |  |  |  |
-| Zachary |  |  |  |  |
+| Zachary | Video Game Recommendations (API) |  |  |  |
