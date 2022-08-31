@@ -17,18 +17,19 @@
 | Andrew |  |  |  |  |
 | DK |  |  |  |  |
 | Iris |  |  |  |  |
-| Jessica |  |  |  |  |
+| Jessica | Baked Goods ECommerce |  |  |  |
 | Jesus A. | Bartender Buddy |  |  |  |
-| Jesus S. |  |  |  |  |
+| Jesus S. | Health ECommerce  |  |  |  |
 | Joba |  |  |  |  |
 | Justin | Stylus ECommerce |  |  |  |
 | Lillie |  |  |  |  |
 | POD 3 - Stephanie |  |  |  |  |
 | Bec | Video Game Tracker (API) |  |  |  |
 | Munaaf |  |  |  |  |
+| Nicole | Mood Muse (YT API) |  |  |  |
 | Nolawi | Coffee Shop Finder (Google Places) |  |  |  |
-| Russel |  |  |  |  |
-| Sashank |  |  |  |  |
+| Russel | Rhythm Rift (Spotify API) |  |  |  |
+| Sashank | Fantasy Football (API) |  |  |  |
 | Sidra | Budget Management |  |  |  |
 | Taylor | Turn-Based Game w/Stats |  |  |  |
 | Zachary | Video Game Recommendations (API) |  |  |  |
