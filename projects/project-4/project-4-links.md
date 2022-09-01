@@ -8,7 +8,7 @@
 | Anthony | HealthTracker | [link](https://trello.com/b/B7g9bGUa/healthtracker) |  |  |
 | Beverly | Smart Chart (Classroom Seating) | [link](https://trello.com/b/XCn4DlOC/p4) |  |  |
 | Brianna | abubble (Family Organizer) | [link](https://trello.com/b/8udoXGyU/p4-abubble) |  |  |
-| Claude | Photo Sharing |  |  |  |
+| Claude | Photo Sharing | [link](https://trello.com/b/minM91Ck/project-4) |  |  |
 | Ernest | Social Shopping List | [link](https://trello.com/b/UXO7d20V/p4) |  |  |
 | Ian | Grow Green (Donation Tracking) | [link](https://trello.com/b/7kn991cX/project-4) |  |  |
 | Jennifer | Book Reviews (Google Books API) |  |  |  |
@@ -20,14 +20,14 @@
 | Jessica | Bakery ECommerce |  |  |  |
 | Jesus A. | Bartender Buddy | [link](https://trello.com/b/vxanfXtV/unit-4-bartending) |  |  |
 | Jesus S. | Health ECommerce  |  |  |  |
-| Joba | Outfit Selector (API?) |  |  |  |
+| Joba | Outfit Selector (API?) | [link](https://trello.com/b/96ikdQ4Y/sei-capstone-project) |  |  |
 | Justin | Stylus ECommerce |  |  |  |
 | Lillie | Brewery WishList | [link](https://trello.com/b/WL8yWqll/brewery-wishlist) |  |  |
 | POD 3 - Stephanie |  |  |  |  |
 | Bec | ConsoleLog (Video Games) | [link](https://trello.com/b/L6LXpNep/project-3-consolelog) |  |  |
 | Munaaf | Productivity App |  |  |  |
 | Nicole | Mood Muse (YT API) |  |  |  |
-| Nolawi | Coffee Shop Finder (Google Places) |  |  |  |
+| Nolawi | The Grind (Coffee Shop Finder) | [link](https://trello.com/b/Epxd4RfQ/p4-the-grind) |  |  |
 | Russel | Rhythm Rift (Spotify API) |  |  |  |
 | Sashank | Fantasy Football (API) |  |  |  |
 | Sidra | Budget Management | [link](https://trello.com/b/K5ij29am/budget-management) |  |  |
