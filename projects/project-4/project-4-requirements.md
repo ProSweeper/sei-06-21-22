@@ -14,7 +14,7 @@
 
 ## Project Requirements
 
-### Planning Requirements - Due Thu, Sept. 2nd
+### Planning Requirements - Due Thu, Sept. 1st
 
 As you've discovered, a project consists of more than just code.
 
@@ -34,7 +34,7 @@ This project requires **planning** organized within a **Trello board** with the 
 
 > Please reach out to your instructional team if you have questions regarding user stories, the data model, etc.
 
-### Presentation Requirements - Mon, Sept. 14th
+### Presentation Requirements - Wed, Sept. 14th
 
 You will have 10 minutes to present and demonstrate the following:
 
