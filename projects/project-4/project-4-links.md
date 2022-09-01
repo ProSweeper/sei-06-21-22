@@ -29,7 +29,7 @@
 | Nicole | Mood Muse (YT API) |  |  |  |
 | Nolawi | The Grind (Coffee Shop Finder) | [link](https://trello.com/b/Epxd4RfQ/p4-the-grind) |  |  |
 | Russel | Rhythm Rift | [link](https://trello.com/b/AEFnAg7X/rhythm-rift) |  |  |
-| Sashank | Fantasy Football (API) |  |  |  |
+| Sashank | MetaLeague (Fantasy Football) | [link](https://trello.com/b/R9Rwy5E4/p4-metaleague) |  |  |
 | Sidra | Budget Management | [link](https://trello.com/b/K5ij29am/budget-management) |  |  |
 | Taylor | Browser Tactics (game w/stats) | [link](https://trello.com/b/KtRFI80A/browser-tactics) |  |  |
 | Zachary | Video Game Recommendations (API) |  |  |  |
