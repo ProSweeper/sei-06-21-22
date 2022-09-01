@@ -31,5 +31,5 @@
 | Russel | Rhythm Rift | [link](https://trello.com/b/AEFnAg7X/rhythm-rift) |  |  |
 | Sashank | Fantasy Football (API) |  |  |  |
 | Sidra | Budget Management | [link](https://trello.com/b/K5ij29am/budget-management) |  |  |
-| Taylor | Turn-Based Game w/Stats |  |  |  |
+| Taylor | Browser Tactics (game w/stats) | [link](https://trello.com/b/KtRFI80A/browser-tactics) |  |  |
 | Zachary | Video Game Recommendations (API) |  |  |  |
