@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/pUDd9Pv.jpg">
 
-# MERN-Stack Lab
+# MERN-Stack `<OrderHistoryPage>` Lab
 
 ## Intro
 
