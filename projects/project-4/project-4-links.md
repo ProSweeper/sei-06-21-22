@@ -28,7 +28,7 @@
 | Munaaf | Productivity App |  |  |  |
 | Nicole | Mood Muse (YT API) |  |  |  |
 | Nolawi | The Grind (Coffee Shop Finder) | [link](https://trello.com/b/Epxd4RfQ/p4-the-grind) |  |  |
-| Russel | Rhythm Rift (Spotify API) |  |  |  |
+| Russel | Rhythm Rift | [link](https://trello.com/b/AEFnAg7X/rhythm-rift) |  |  |
 | Sashank | Fantasy Football (API) |  |  |  |
 | Sidra | Budget Management | [link](https://trello.com/b/K5ij29am/budget-management) |  |  |
 | Taylor | Turn-Based Game w/Stats |  |  |  |
