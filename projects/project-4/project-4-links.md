@@ -20,7 +20,7 @@
 | Jessica | Bakery ECommerce |  |  |  |
 | Jesus A. | Bartender Buddy |  |  |  |
 | Jesus S. | Health ECommerce  |  |  |  |
-| Joba |  |  |  |  |
+| Joba | Outfit Selector (API?) |  |  |  |
 | Justin | Stylus ECommerce |  |  |  |
 | Lillie | Wish List (OpenBrewery API) |  |  |  |
 | POD 3 - Stephanie |  |  |  |  |
