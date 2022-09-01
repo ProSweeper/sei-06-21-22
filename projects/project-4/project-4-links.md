@@ -9,7 +9,7 @@
 | Beverly | Smart Chart (Classroom Seating) | [link](https://trello.com/b/XCn4DlOC/p4) |  |  |
 | Brianna | abubble (Family Organizer) | [link](https://trello.com/b/8udoXGyU/p4-abubble) |  |  |
 | Claude | Photo Sharing |  |  |  |
-| Ernest | Social Shopping List |  |  |  |
+| Ernest | Social Shopping List | [link](https://trello.com/b/UXO7d20V/p4) |  |  |
 | Ian | Grow Green (Donation Tracking) | [link](https://trello.com/b/7kn991cX/project-4) |  |  |
 | Jennifer | Book Reviews (Google Books API) |  |  |  |
 | Tony | The Ledger | [link](https://trello.com/b/4qVjToFn/p4-the-ledger) |  |  |

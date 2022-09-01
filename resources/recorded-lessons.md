@@ -95,4 +95,6 @@
 | W11D2 | [Login Exercise Review](https://generalassembly.zoom.us/rec/share/dZLVGtpA99zE2gbCu4k4ehTkGLici4ywgviBLhEeytgRLuDg8t4ifInHOE7qy_Sk.K0irxnxoPxqoHvEA?startTime=1661883710000) |
 | W11D2 | [MERN-Stack Infrastructure - Part 7](https://generalassembly.zoom.us/rec/share/xusLfCg53_rN52pryG86FKAg5mf2iXjLo4fsDtNtW6Z5v6vZ95v3V0heGUz8zI64.ZY3V1FtqzBRkm8Ct?startTime=1661895908000) |
 | W11D3 | [React useEffect & useRef Hooks](https://generalassembly.zoom.us/rec/share/Rg6NUAjvowbSFUtvb3ouSuoSiCRB0L9Jg3NSBt55oQ7vKrpUZgn4Nxb51Qv4OyvG.3-FndWtNU77gIMGd?startTime=1661961668000) |
+| W11D4 | [MERN Shopping Cart - Part 1](https://generalassembly.zoom.us/rec/share/pHsR9bQI5QKSmfhUTghpf5YefkyFvBJ3vqHVbFcVdBArkj7i-br4RN-X8qEdr4W0.3mMpudDShVxSwVZf?startTime=1662048888000) |
+| W11D4 | [MERN Shopping Cart - Part 2](https://generalassembly.zoom.us/rec/share/pHsR9bQI5QKSmfhUTghpf5YefkyFvBJ3vqHVbFcVdBArkj7i-br4RN-X8qEdr4W0.3mMpudDShVxSwVZf?startTime=1662053710000) |
 
