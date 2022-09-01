@@ -10,7 +10,7 @@
 | Brianna | Family Organizer |  |  |  |
 | Claude | Photo Sharing |  |  |  |
 | Ernest | Social Shopping List |  |  |  |
-| Ian |  |  |  |  |
+| Ian | Donation Tracking |  |  |  |
 | Jennifer | Book Reviews (Google Books API) |  |  |  |
 | Tony | Income Tracker/Calendar |  |  |  |
 | POD 2 - Mario |  |  |  |  |
