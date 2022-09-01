@@ -11,7 +11,7 @@
 | Claude | Photo Sharing | [link](https://trello.com/b/minM91Ck/project-4) |  |  |
 | Ernest | Social Shopping List | [link](https://trello.com/b/UXO7d20V/p4) |  |  |
 | Ian | Grow Green (Donation Tracking) | [link](https://trello.com/b/7kn991cX/project-4) |  |  |
-| Jennifer | Book Reviews (Google Books API) |  |  |  |
+| Jennifer | Read Hot Chili Peppers |  |  |  |
 | Tony | The Ledger | [link](https://trello.com/b/4qVjToFn/p4-the-ledger) |  |  |
 | POD 2 - Mario |  |  |  |  |
 | Andrew | University Tutors | [link](https://trello.com/b/xoaa8Z1N/tutorup4) |  |  |
