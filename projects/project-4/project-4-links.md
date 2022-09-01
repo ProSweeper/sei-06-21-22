@@ -32,4 +32,4 @@
 | Sashank | MetaLeague (Fantasy Football) | [link](https://trello.com/b/R9Rwy5E4/p4-metaleague) |  |  |
 | Sidra | Budget Management | [link](https://trello.com/b/K5ij29am/budget-management) |  |  |
 | Taylor | Browser Tactics (game w/stats) | [link](https://trello.com/b/KtRFI80A/browser-tactics) |  |  |
-| Zachary | Video Game Recommendations (API) |  |  |  |
+| Zachary | InvestiGame | [link](https://trello.com/b/jNzRLC5Q/project-4) |  |  |
