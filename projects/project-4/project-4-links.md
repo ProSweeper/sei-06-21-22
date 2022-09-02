@@ -19,7 +19,7 @@
 | Iris | EventFUL | [link](https://trello.com/b/nCG9G5L3/project-4-board) |  |  |
 | Jessica | Bakery ECommerce |  |  |  |
 | Jesus A. | Bartender Buddy | [link](https://trello.com/b/vxanfXtV/unit-4-bartending) |  |  |
-| Jesus S. | Health ECommerce  |  |  |  |
+| Jesus S. | Health ECommerce  | [link](https://trello.com/b/y0SkAvv0/capstone) |  |  |
 | Joba | Outfit Selector (API?) | [link](https://trello.com/b/96ikdQ4Y/sei-capstone-project) |  |  |
 | Justin | Stylus ECommerce |  |  |  |
 | Lillie | Brewery WishList | [link](https://trello.com/b/WL8yWqll/brewery-wishlist) |  |  |
