@@ -26,7 +26,6 @@
 | POD 3 - Stephanie |  |  |  |  |
 | Bec | ConsoleLog (Video Games) | [link](https://trello.com/b/L6LXpNep/project-3-consolelog) |  |  |
 | Munaaf | Productivity App |  |  |  |
-| Nicole | Mood Muse (YT API) |  |  |  |
 | Nolawi | The Grind (Coffee Shop Finder) | [link](https://trello.com/b/Epxd4RfQ/p4-the-grind) |  |  |
 | Russel | Rhythm Rift | [link](https://trello.com/b/AEFnAg7X/rhythm-rift) |  |  |
 | Sashank | MetaLeague (Fantasy Football) | [link](https://trello.com/b/R9Rwy5E4/p4-metaleague) |  |  |
