@@ -7,7 +7,7 @@
 | Alexander | Vacation | [link](https://trello.com/b/SM6tCjC2/vaction-social-app) | [link](https://github.com/ahaines10/vacation-tracker) |  |
 | Anthony | HealthTracker | [link](https://trello.com/b/B7g9bGUa/healthtracker) | [link](https://github.com/abpandanguyen/health-tracker) |  |
 | Beverly | Smart Chart (Classroom Seating) | [link](https://trello.com/b/XCn4DlOC/p4) | [link](https://github.com/bevcook126/smart-chart) |  |
-| Brianna | abubble (Family Organizer) | [link](https://trello.com/b/8udoXGyU/p4-abubble) | [link](https://github.com/heyjudesmom/abubble) |  |
+| Brianna | abubble (Family Organizer) | [link](https://trello.com/b/8udoXGyU/p4-abubble) | [link](https://github.com/heyjudesmom/abubble) | [link](https://abubble-organizer.herokuapp.com/) |
 | Claude | Photo Sharing | [link](https://trello.com/b/minM91Ck/project-4) | [link](https://github.com/claudecabalquinto/photography-project-4) |  |
 | Ernest | ShopList | [link](https://trello.com/b/UXO7d20V/p4) | [link](https://github.com/loex345/shoplist) |  |
 | Ian | Grow Green (Donation Tracking) | [link](https://trello.com/b/7kn991cX/project-4) | [link](https://github.com/ianchan3/Grow-Green) |  |
