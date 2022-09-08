@@ -1,0 +1,25 @@
+.header {
+  background-color: #282c34;
+  min-height: 10vmin;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 3vmin;
+  color: white;
+}
+
+.header a {
+  font-size: 2vmin;
+  color: lightcyan;
+  margin: 1vmin;
+  text-decoration: none;
+}
+
+.header a:hover {
+  color: white;
+}
+
+.welcome {
+  font-size: 2vmin;
+}
