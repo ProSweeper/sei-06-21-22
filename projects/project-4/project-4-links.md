@@ -14,7 +14,7 @@
 | Jennifer | Read Hot Chili Peppers | [link](https://trello.com/b/WIijFORo/p4-read-hot-chili-peppers) | [link](https://github.com/jenstiza/Read-Hot-Chili-Peppers) |  |
 | Tony | The Ledger | [link](https://trello.com/b/4qVjToFn/p4-the-ledger) | [link](https://github.com/anthonybrockett/the-ledger) |  |
 | POD 2 - Mario |  |  |  |  |
-| Andrew | TutorU | [link](https://trello.com/b/xoaa8Z1N/tutorup4) | [link](https://github.com/Andrewbui389/TutorU) |  |
+| Andrew | Event Track | [link](https://trello.com/b/X1FRhnCh/event-track-p4) | [link](https://github.com/Andrewbui389/Event-Track) |  |
 | DK | REI (Real Estate Listings) | [link](https://trello.com/b/LKxhzxN8/rei-project4) | [link](https://github.com/Dandd6541/RE-listings-) |  |
 | Iris | EventFUL | [link](https://trello.com/b/nCG9G5L3/project-4-board) | [link](https://github.com/iris-personal/eventFUL) |  |
 | Jessica | JessBakes | [link](https://trello.com/b/abK3XcYw/p4) | [link](https://github.com/jessmucklow/jessbakes) |  |
