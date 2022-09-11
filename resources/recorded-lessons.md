@@ -97,4 +97,5 @@
 | W11D3 | [React useEffect & useRef Hooks](https://generalassembly.zoom.us/rec/share/Rg6NUAjvowbSFUtvb3ouSuoSiCRB0L9Jg3NSBt55oQ7vKrpUZgn4Nxb51Qv4OyvG.3-FndWtNU77gIMGd?startTime=1661961668000) |
 | W11D4 | [MERN Shopping Cart - Part 1](https://generalassembly.zoom.us/rec/share/pHsR9bQI5QKSmfhUTghpf5YefkyFvBJ3vqHVbFcVdBArkj7i-br4RN-X8qEdr4W0.3mMpudDShVxSwVZf?startTime=1662048888000) |
 | W11D4 | [MERN Shopping Cart - Part 2](https://generalassembly.zoom.us/rec/share/pHsR9bQI5QKSmfhUTghpf5YefkyFvBJ3vqHVbFcVdBArkj7i-br4RN-X8qEdr4W0.3mMpudDShVxSwVZf?startTime=1662053710000) |
+| W12D5 | [Deploy MERN-Stack to Heroku](https://generalassembly.zoom.us/rec/share/TrZ0x6ssyRfZLpXxaD7H0u5FVs3RzV8KYnpW-Lt_ixta9Ugmu5YpXCiVTdJyJh8s.K564jJAyp4mU8eeE?startTime=1662752705000) |
 
