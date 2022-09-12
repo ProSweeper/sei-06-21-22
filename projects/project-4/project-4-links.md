@@ -27,7 +27,7 @@
 | Bec | ConsoleLog (Video Games) | [link](https://trello.com/b/L6LXpNep/project-3-consolelog) | [link](https://github.com/becp12/ConsoleLog) | [link](https://consolelogapp.herokuapp.com/) |
 | Munaaf | Productivity App | [link](https://trello.com/b/1s9SPVup/project-4) | [link](https://github.com/mkbozai/iykyk) |  |
 | Nolawi | The Grind (Coffee Shop Finder) | [link](https://trello.com/b/3P8F6JVw/p4-magic-castle) | [link](https://github.com/noliw/magic-castle) | [link](https://magic-castle.herokuapp.com/) |
-| Nicole | Games | [link](https://trello.com/b/abK3XcYw/p4) | [link](https://github.com/coleochieng/unit4project) |  |
+| Nicole | Games | [link](https://trello.com/b/abK3XcYw/p4) | [link](https://github.com/coleochieng/unit4project) | [link](https://unit-4-project.herokuapp.com/) |
 | Russel | Rhythm Rift | [link](https://trello.com/b/AEFnAg7X/rhythm-rift) | [link](https://github.com/russellasagna/RhythmRift) | [link](https://rhythmrift.herokuapp.com/) |
 | Sashank | MetaLeague (Fantasy Football) | [link](https://trello.com/b/R9Rwy5E4/p4-metaleague) | [link](https://github.com/sashankrayapudi/meta-league) | [link](https://meta-league.herokuapp.com/) |
 | Sidra | Budget Management | [link](https://trello.com/b/K5ij29am/budget-management) | [link](https://github.com/SidrAkhtar/budget-management-app) | [link](https://budget-management-app-sakhtar.herokuapp.com/) |
