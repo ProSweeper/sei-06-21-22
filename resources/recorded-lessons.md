@@ -98,4 +98,5 @@
 | W11D4 | [MERN Shopping Cart - Part 1](https://generalassembly.zoom.us/rec/share/pHsR9bQI5QKSmfhUTghpf5YefkyFvBJ3vqHVbFcVdBArkj7i-br4RN-X8qEdr4W0.3mMpudDShVxSwVZf?startTime=1662048888000) |
 | W11D4 | [MERN Shopping Cart - Part 2](https://generalassembly.zoom.us/rec/share/pHsR9bQI5QKSmfhUTghpf5YefkyFvBJ3vqHVbFcVdBArkj7i-br4RN-X8qEdr4W0.3mMpudDShVxSwVZf?startTime=1662053710000) |
 | W12D5 | [Deploy MERN-Stack to Heroku](https://generalassembly.zoom.us/rec/share/TrZ0x6ssyRfZLpXxaD7H0u5FVs3RzV8KYnpW-Lt_ixta9Ugmu5YpXCiVTdJyJh8s.K564jJAyp4mU8eeE?startTime=1662752705000) |
+| W13D1 | [Project 4 Assessment Prep](https://generalassembly.zoom.us/rec/share/9v_RBzhQN3K5IhQbZbP771MbSwWF5tSDcUXZJACfZ0jDVn3b2P0LNMmQZAuH1-G3.I_0SRxcPeSDagYf3?startTime=1663011906000) |
 
