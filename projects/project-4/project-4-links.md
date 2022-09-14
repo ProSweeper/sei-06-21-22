@@ -21,7 +21,7 @@
 | Jesus A. | Bartender Buddy | [link](https://trello.com/b/vxanfXtV/unit-4-bartending) | [link](https://github.com/aaguilarvf39/Bartending-Project-4) | [link](https://bartender-cocktails.herokuapp.com/) |
 | Jesus S. | GreenPill  | [link](https://trello.com/b/y0SkAvv0/capstone) | [link](https://github.com/jesusi3/green-pill) | [link](https://green-pill.herokuapp.com) |
 | Joba | Outfit Selector | [link](https://trello.com/b/96ikdQ4Y/sei-capstone-project) | [link](https://github.com/jobaa11/product-design-app) | [link](https://oja-app.herokuapp.com/) |
-| Justin | Limitless Stylus | [link](https://trello.com/b/c5q8qaWG/limitless-stylus) | [link](https://github.com/jmendoza13/limitless-stylus) |  |
+| Justin | Limitless Stylus | [link](https://trello.com/b/c5q8qaWG/limitless-stylus) | [link](https://github.com/jmendoza13/limitless-stylus) | [link](https://limitless-stylus.herokuapp.com/) |
 | Lillie | Brewery Bucket List | [link](https://trello.com/b/WL8yWqll/brewery-wishlist) | [link](https://github.com/lilliesheely/Brewery-Bucket-List) | [link](https://brewery-bucket-list.herokuapp.com/) |
 | POD 3 - Stephanie |  |  |  |  |
 | Bec | ConsoleLog (Video Games) | [link](https://trello.com/b/L6LXpNep/project-3-consolelog) | [link](https://github.com/becp12/ConsoleLog) | [link](https://consolelogapp.herokuapp.com/) |
